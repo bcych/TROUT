@@ -1,0 +1,26 @@
+tab 	sites
+citations	lat	location	lon	site
+this study:10.1029/2018GC007946				hw226
+this study:10.1029/2018GC007946				mc109
+this study:10.1029/2018GC007946				mc109
+this study:10.1029/2018GC007946				mc111
+this study:10.1029/2018GC007946				mc111
+this study:10.1029/2018GC007946				mc120
+this study:10.1029/2018GC007946				mc120
+this study:10.1029/2018GC007946				mc167
+this study:10.1029/2018GC007946				mc117
+this study:10.1029/2018GC007946				mc117
+this study:10.1029/2018GC007946				mc117
+this study:10.1029/2018GC007946				mc117
+this study:10.1029/2018GC007946				jm009
+this study:10.1029/2018GC007946				jm009
+this study:10.1029/2018GC007946				jm009
+this study:10.1029/2018GC007946				jm009
+this study:10.1029/2018GC007946				cr405
+this study:10.1029/2018GC007946				jm011
+this study:10.1029/2018GC007946				cr418
+this study:10.1029/2018GC007946				cr423
+this study:10.1029/2018GC007946				sc02
+this study:10.1029/2018GC007946				sc03
+this study:10.1029/2018GC007946				sc03
+this study:10.1029/2018GC007946				sc06

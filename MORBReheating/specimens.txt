@@ -1,0 +1,26 @@
+tab 	specimens
+citations	description	dir_comp	dir_comps	dir_dec	dir_inc	dir_n_comps	dir_tilt_correction	geologic_classes	geologic_types	lithologies	meas_step_max	meas_step_min	meas_step_unit	meas_step_units	method_codes	sample	specimen
+this_study:10.1126/science.265.5178.1561	TRMs imparted two laboratory field directions, parallel (from 600C) and perpendicular (from XXX) to X	A	2.0				-1.0	Synthetic	Not Specified	Not Specified				K	LP-DIR-T:LT-T-Z	c114	c114-10.41
+this_study:10.1126/science.265.5178.1561	TRMs imparted two laboratory field directions, parallel (from 600C) and perpendicular (from XXX) to X	B	2.0				-1.0	Synthetic	Not Specified	Not Specified				K	LP-DIR-T:LT-T-Z	c114	c114-10.41
+this_study:10.1126/science.265.5178.1561	TRMs imparted two laboratory field directions, parallel (from 600C) and perpendicular (from XXX) to X	A	2.0				-1.0	Synthetic	Not Specified	Not Specified				K	LP-DIR-T:LT-T-Z	c114	c114-10.42
+this_study:10.1126/science.265.5178.1561	TRMs imparted two laboratory field directions, parallel (from 600C) and perpendicular (from XXX) to X	B	2.0				-1.0	Synthetic	Not Specified	Not Specified				K	LP-DIR-T:LT-T-Z	c114	c114-10.42
+this_study:10.1126/science.265.5178.1561	TRMs imparted two laboratory field directions, parallel (from 600C) and perpendicular (from XXX) to X	A	2.0				-1.0	Synthetic	Not Specified	Not Specified				K	LP-DIR-T:LT-T-Z	c114	c114-10.43
+this_study:10.1126/science.265.5178.1561	TRMs imparted two laboratory field directions, parallel (from 600C) and perpendicular (from XXX) to X	B	2.0				-1.0	Synthetic	Not Specified	Not Specified				K	LP-DIR-T:LT-T-Z	c114	c114-10.43
+this_study:10.1126/science.265.5178.1561	TRMs imparted two laboratory field directions, parallel (from 600C) and perpendicular (from XXX) to X	A	2.0				-1.0	Synthetic	Not Specified	Not Specified				K	LP-DIR-T:LT-T-Z	c114	c114-10.44
+this_study:10.1126/science.265.5178.1561	TRMs imparted two laboratory field directions, parallel (from 600C) and perpendicular (from XXX) to X	B	2.0				-1.0	Synthetic	Not Specified	Not Specified				K	LP-DIR-T:LT-T-Z	c114	c114-10.44
+this_study:10.1126/science.265.5178.1561	TRMs imparted two laboratory field directions, parallel (from 600C) and perpendicular (from XXX) to X	A	2.0				-1.0	Synthetic	Not Specified	Not Specified				K	LP-DIR-T:LT-T-Z	c114	c114-10.45
+this_study:10.1126/science.265.5178.1561	TRMs imparted two laboratory field directions, parallel (from 600C) and perpendicular (from XXX) to X	B	2.0				-1.0	Synthetic	Not Specified	Not Specified				K	LP-DIR-T:LT-T-Z	c114	c114-10.45
+this_study:10.1126/science.265.5178.1561	TRMs imparted two laboratory field directions, parallel (from 600C) and perpendicular (from XXX) to X	A	2.0				-1.0	Synthetic	Not Specified	Not Specified				K	LP-DIR-T:LT-T-Z	c114	c114-10.46
+this_study:10.1126/science.265.5178.1561	TRMs imparted two laboratory field directions, parallel (from 600C) and perpendicular (from XXX) to X	B	2.0				-1.0	Synthetic	Not Specified	Not Specified				K	LP-DIR-T:LT-T-Z	c114	c114-10.46
+		Fit 2		188.4501037597656	65.71282958984375	2.0					381.4908490849085	304.3831383138314	K		LP-DIR-T:DE-TROUT	c114	c114-10.41
+		Fit 1		211.48150634765625	-5.418453693389893	2.0					872.9399939993999	382.4509450945095	K		LP-DIR-T:DE-TROUT	c114	c114-10.41
+		Fit 2		260.8352355957031	80.35113525390625	2.0					416.1143114311431	273.0	K		LP-DIR-T:DE-TROUT	c114	c114-10.42
+		Fit 1		212.63726806640625	-4.770740985870361	2.0					865.8592859285928	451.7578757875788	K		LP-DIR-T:DE-TROUT	c114	c114-10.42
+		Fit 2		334.2837829589844	80.84083557128906	2.0					460.33873387338735	273.0	K		LP-DIR-T:DE-TROUT	c114	c114-10.43
+		Fit 1		211.3467559814453	3.2990121841430664	2.0					837.0564056405641	518.064506450645	K		LP-DIR-T:DE-TROUT	c114	c114-10.43
+		Fit 2		315.1786499023437	80.31732177734375	2.0					506.84338433843385	273.0	K		LP-DIR-T:DE-TROUT	c114	c114-10.44
+		Fit 1		211.4994201660156	0.795539140701294	2.0					836.1563156315632	581.970897089709	K		LP-DIR-T:DE-TROUT	c114	c114-10.44
+		Fit 2		244.93502807617188	83.21100616455078	2.0					554.3081308130813	273.0	K		LP-DIR-T:DE-TROUT	c114	c114-10.45
+		Fit 1		209.9510192871093	-0.8744048476219177	2.0					852.4779477947794	635.4962496249625	K		LP-DIR-T:DE-TROUT	c114	c114-10.45
+		Fit 2		207.8399658203125	1.102003574371338	2.0					425.1752175217522	311.6438643864386	K		LP-DIR-T:DE-TROUT	c114	c114-10.46
+		Fit 1		211.01565551757807	0.6130216717720032	2.0					843.2370237023703	427.69546954695466	K		LP-DIR-T:DE-TROUT	c114	c114-10.46
