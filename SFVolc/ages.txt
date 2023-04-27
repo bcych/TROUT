@@ -1,0 +1,17 @@
+tab 	ages
+age	age_sigma	age_unit	citations	location	method_codes	site
+0.75	0.17	Ma	Tanaka et al. 1990	San Francisco Volcanics	GM-KAR	sv02
+2.08	0.48	Ma	Tanaka et al. 1990	San Francisco Volcanics	GM-KAR	sv08
+1.14	0.17	Ma	Tanaka et al. 1990	San Francisco Volcanics	GM-KAR	sv09
+0.44	0.18	Ma	Tanaka et al. 1990	San Francisco Volcanics	GM-KAR	sv10
+1.29	0.15	Ma	Tanaka et al. 1990	San Francisco Volcanics	GM-KAR	sv11
+0.34	0.21	Ma	Tanaka et al. 1990	San Francisco Volcanics	GM-KAR	sv12
+0.33	0.08	Ma	Tanaka et al. 1990	San Francisco Volcanics	GM-KAR	sv15
+1.04	0.14	Ma	Tanaka et al. 1990	San Francisco Volcanics	GM-KAR	sv20
+1.2	0.05	Ma	Tanaka et al. 1990	San Francisco Volcanics	GM-KAR	sv21
+2.43	0.32	Ma	Tanaka et al. 1990	San Francisco Volcanics	GM-KAR	sv22
+1.07	0.15	Ma	Tanaka et al. 1990	San Francisco Volcanics	GM-KAR	sv23
+1.38	0.16	Ma	Tanaka et al. 1990	San Francisco Volcanics	GM-KAR	sv25
+1.04	0.04	Ma	Tanaka et al. 1990	San Francisco Volcanics	GM-KAR	sv25
+0.071		Ma	Tanaka et al. 1990	San Francisco Volcanics	GM-KAR	sv27
+1080		Years AD (+/-)	Tanaka et al. 1990	San Francisco Volcanics	GM-C14	sv32

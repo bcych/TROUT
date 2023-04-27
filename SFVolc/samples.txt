@@ -1,0 +1,712 @@
+tab 	samples
+azimuth	citations	criteria	description	dip	dir_dec	dir_inc	dir_n_specimens	dir_n_specimens_lines	dir_n_specimens_planes	dir_nrm_origin	dir_polarity	dir_tilt_correction	geologic_classes	geologic_types	lat	lithologies	lon	method_codes	orientation_quality	result_quality	sample	site	specimens
+-19	This study			-45									Igneous	Lava Flow	35.3432	Basalt	248.2524	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv01a	sv01	
+	This study		sample direction.		348.4	-34.7	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-CMD-NORTH:LP-DIR-AF			sv01a	sv01	sv01a1
+-51	This study			-23									Igneous	Lava Flow	35.3432	Basalt	248.2524	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv01b	sv01	
+	This study		sample direction.		122.7	25.5	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-CMD-NORTH:LP-DIR-AF			sv01b	sv01	sv01b1
+284	This study			-51									Igneous	Lava Flow	35.3432	Basalt	248.2524	FS-FD:SO-POM:SO-MAG	g		sv01c	sv01	
+51	This study			-35									Igneous	Lava Flow	35.3432	Basalt	248.2524	FS-FD:SO-POM:SO-MAG	g		sv01d	sv01	
+328	This study			-57									Igneous	Lava Flow	35.3432	Basalt	248.2524	FS-FD:SO-POM:SO-MAG	g		sv01e	sv01	
+150	This study			-6									Igneous	Lava Flow	35.3432	Basalt	248.2524	FS-FD:SO-POM:SO-MAG	g		sv01f	sv01	
+87	This study			-8									Igneous	Lava Flow	35.3432	Basalt	248.2524	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv01g	sv01	
+	This study		sample direction.		162.4	36.6	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-CMD-NORTH:LP-DIR-AF			sv01g	sv01	sv01g1
+279	This study			-24									Igneous	Lava Flow	35.3432	Basalt	248.2524	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv01h	sv01	
+	This study		sample direction.		190.4	34.6	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-CMD-NORTH:LP-DIR-AF			sv01h	sv01	sv01h1
+325	This study			-56									Igneous	Lava Flow	35.3432	Basalt	248.2524	FS-FD:SO-POM:SO-MAG	g		sv01i	sv01	
+271	This study			-49									Igneous	Lava Flow	35.3432	Basalt	248.2524	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv01j	sv01	
+	This study		sample direction.		133.4	21.9	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-CMD-NORTH:LP-DIR-AF			sv01j	sv01	sv01j1
+310	This study			-45									Igneous	Lava Flow	35.3432	Basalt	248.2524	FS-FD:SO-POM:SO-MAG	g		sv01k	sv01	
+332	This study			-60									Igneous	Lava Flow	35.3432	Basalt	248.2524	FS-FD:SO-POM:SO-MAG	g		sv01l	sv01	
+81.3	This study			-50									Igneous	Lava Flow	35.3734	Basalt	248.2661	FS-FD:SO-POM:SO-SUN	g		sv02a	sv02	
+	This study	DE-SPEC	sample direction.		330.3	30.4	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv02a	sv02	sv02a1
+96.3	This study			-47									Igneous	Lava Flow	35.3734	Basalt	248.2661	FS-FD:SO-POM:SO-SUN	g		sv02b	sv02	
+	This study		sample direction.		225.7	37	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-SUN:LP-DIR-AF			sv02b	sv02	sv02b1
+40	This study			-43.5									Igneous	Lava Flow	35.3734	Basalt	248.2661	FS-FD:SO-POM:SO-SUN	g		sv02c	sv02	
+	This study		sample direction.		103.1	32.3	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-SUN:LP-DIR-AF			sv02c	sv02	sv02c1
+33.1	This study			-41									Igneous	Lava Flow	35.3734	Basalt	248.2661	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv02d	sv02	
+	This study	DE-SPEC	sample direction.		338.6	44.5	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv02d	sv02	sv02d1
+71.1	This study			-41.5									Igneous	Lava Flow	35.3734	Basalt	248.2661	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv02e	sv02	
+	This study	DE-SPEC	sample direction.		340.6	42.4	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv02e	sv02	sv02e1
+101.6	This study			-65.5									Igneous	Lava Flow	35.3734	Basalt	248.2661	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv02f	sv02	
+53.1	This study			-56									Igneous	Lava Flow	35.3734	Basalt	248.2661	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv02g	sv02	
+55.6	This study			-65									Igneous	Lava Flow	35.3734	Basalt	248.2661	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv02h	sv02	
+64.1	This study			-62.5									Igneous	Lava Flow	35.3734	Basalt	248.2661	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv02i	sv02	
+23.6	This study			-73									Igneous	Lava Flow	35.3734	Basalt	248.2661	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv02j	sv02	
+69.3	This study			-32.5									Igneous	Lava Flow	35.3734	Basalt	248.2661	FS-FD:SO-POM:SO-SUN	g		sv02k	sv02	
+	This study	DE-SPEC	sample direction.		337.7	40.3	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv02k	sv02	sv02k1
+38	This study			-50									Igneous	Lava Flow	35.375	Basalt	248.269	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv03a	sv03	
+	This study	DE-SPEC	sample direction.		344.6	52.1	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv03a	sv03	sv03a1
+38	This study			-54.5									Igneous	Lava Flow	35.375	Basalt	248.269	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv03b	sv03	
+	This study		sample direction.		39.5	-24.5	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-CMD-NORTH:LP-DIR-AF			sv03b	sv03	sv03b1
+330.5	This study			-50									Igneous	Lava Flow	35.375	Basalt	248.269	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv03c	sv03	
+348	This study			-83									Igneous	Lava Flow	35.375	Basalt	248.269	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv03d	sv03	
+	This study		sample direction.		3.9	-33.5	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-CMD-NORTH:LP-DIR-AF			sv03d	sv03	sv03d1
+357	This study			-83									Igneous	Lava Flow	35.375	Basalt	248.269	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv03e	sv03	
+	This study		sample direction.		8.8	-33.8	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-CMD-NORTH:LP-DIR-AF			sv03e	sv03	sv03e1
+32.5	This study			-65									Igneous	Lava Flow	35.375	Basalt	248.269	FS-FD:SO-POM:SO-SUN	g		sv03f	sv03	
+23	This study			-74									Igneous	Lava Flow	35.375	Basalt	248.269	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv03g	sv03	
+	This study	DE-SPEC	sample direction.		352.8	52.2	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv03g	sv03	sv03g1
+10.3	This study			-67									Igneous	Lava Flow	35.375	Basalt	248.269	FS-FD:SO-POM:SO-SUN	g		sv03h	sv03	
+	This study	DE-SPEC	sample direction.		349.1	55.5	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv03h	sv03	sv03h1
+1.7	This study			-84									Igneous	Lava Flow	35.375	Basalt	248.269	FS-FD:SO-POM:SO-SUN	g		sv03i	sv03	
+	This study	DE-SPEC	sample direction.		353.2	57.3	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv03i	sv03	sv03i1
+348	This study			-78									Igneous	Lava Flow	35.375	Basalt	248.269	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv03j	sv03	
+	This study	DE-SPEC	sample direction.		324.1	44.6	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv03j	sv03	sv03j1
+11	This study			-59									Igneous	Lava Flow	35.39	Basalt	248.26	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv04a	sv04	
+	This study	DE-SPEC	sample direction.		348.3	50.2	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv04a	sv04	sv04a1
+65	This study			-40.5									Igneous	Lava Flow	35.39	Basalt	248.26	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv04b	sv04	
+	This study	DE-SPEC	sample direction.		353	46.6	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv04b	sv04	sv04b1
+31	This study			-36									Igneous	Lava Flow	35.39	Basalt	248.26	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv04c	sv04	
+2	This study			-66									Igneous	Lava Flow	35.39	Basalt	248.26	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv04d	sv04	
+	This study	DE-SPEC	sample direction.		342.6	48.7	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv04d	sv04	sv04d1
+6	This study			-61									Igneous	Lava Flow	35.39	Basalt	248.26	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv04e	sv04	
+	This study	DE-SPEC	sample direction.		342.2	56.9	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv04e	sv04	sv04e1
+52	This study			-54									Igneous	Lava Flow	35.39	Basalt	248.26	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv04f	sv04	
+20	This study			-52									Igneous	Lava Flow	35.39	Basalt	248.26	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv04g	sv04	
+94	This study			-43									Igneous	Lava Flow	35.39	Basalt	248.26	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv04h	sv04	
+17	This study			-39									Igneous	Lava Flow	35.39	Basalt	248.26	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv04i	sv04	
+	This study	DE-SPEC	sample direction.		347.4	50.6	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv04i	sv04	sv04i1
+23	This study			-82									Igneous	Lava Flow	35.39	Basalt	248.26	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv04j	sv04	
+11.4	This study			-31.5									Igneous	Lava Flow	35.184	Basalt	247.808	FS-FD:SO-POM:SO-SUN	g		sv05a	sv05	
+	This study		sample direction.		202.3	31.5	1	0	1			0						DA-DIR-GEO:DE-BFP:LP-DIR-T:SO-SUN:LP-DIR-AF			sv05a	sv05	sv05a2
+21	This study			-36									Igneous	Lava Flow	35.184	Basalt	247.808	FS-FD:SO-POM:SO-SUN	g		sv05b	sv05	
+	This study	DE-SPEC	sample direction.		160	-47.8	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv05b	sv05	sv05b1
+127.9	This study			-3									Igneous	Lava Flow	35.184	Basalt	247.808	FS-FD:SO-POM:SO-SUN	g		sv05c	sv05	
+	This study		sample direction.		168.4	37.3	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-SUN:LP-DIR-AF			sv05c	sv05	sv05c1
+348.5	This study			-48									Igneous	Lava Flow	35.184	Basalt	247.808	FS-FD:SO-POM:SO-SUN	g		sv05d	sv05	
+	This study	DE-SPEC	sample direction.		161.2	-47.4	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv05d	sv05	sv05d2
+41.8	This study			-50									Igneous	Lava Flow	35.184	Basalt	247.808	FS-FD:SO-POM:SO-SUN	g		sv05e	sv05	
+346.1	This study			-31									Igneous	Lava Flow	35.184	Basalt	247.808	FS-FD:SO-POM:SO-SUN	g		sv05f	sv05	
+	This study		sample direction.		72.5	-2.6	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-SUN:LP-DIR-AF			sv05f	sv05	sv05f1
+213.1	This study			-14									Igneous	Lava Flow	35.184	Basalt	247.808	FS-FD:SO-POM:SO-SUN	g		sv05g	sv05	
+208.4	This study			-32									Igneous	Lava Flow	35.184	Basalt	247.808	FS-FD:SO-POM:SO-SUN	g		sv05h	sv05	
+	This study	DE-SPEC	sample direction.		172	-44.3	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv05h	sv05	sv05h1
+212.8	This study			-34									Igneous	Lava Flow	35.184	Basalt	247.808	FS-FD:SO-POM:SO-SUN	g		sv05i	sv05	
+	This study	DE-SPEC	sample direction.		166.6	-54.5	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv05i	sv05	sv05i1
+240.5	This study			-9									Igneous	Lava Flow	35.184	Basalt	247.808	FS-FD:SO-POM:SO-SUN	g		sv05j	sv05	
+	This study	DE-SPEC	sample direction.		157.8	-60	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv05j	sv05	sv05j1
+12.9	This study			-26									Igneous	Lava Flow	35.184	Basalt	247.808	FS-FD:SO-POM:SO-SUN	g		sv05k	sv05	
+317.3	This study			-56.5									Igneous	Lava Flow	35.192	Basalt	247.807	FS-FD:SO-POM:SO-SUN	g		sv06a	sv06	
+	This study		sample direction.		246.5	-31.4	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-SUN:LP-DIR-AF			sv06a	sv06	sv06a1
+313.9	This study			-52									Igneous	Lava Flow	35.192	Basalt	247.807	FS-FD:SO-POM:SO-SUN	g		sv06b	sv06	
+300.5	This study			-52									Igneous	Lava Flow	35.192	Basalt	247.807	FS-FD:SO-POM:SO-SUN	g		sv06c	sv06	
+	This study		sample direction.		278.3	24.5	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-SUN:LP-DIR-AF			sv06c	sv06	sv06c3
+270	This study			-61									Igneous	Lava Flow	35.192	Basalt	247.807	FS-FD:SO-POM:SO-SUN	g		sv06d	sv06	
+275.6	This study			-56									Igneous	Lava Flow	35.192	Basalt	247.807	FS-FD:SO-POM:SO-SUN	g		sv06e	sv06	
+335.9	This study			-44									Igneous	Lava Flow	35.192	Basalt	247.807	FS-FD:SO-POM:SO-SUN	g		sv06f	sv06	
+	This study	DE-SPEC	sample direction.		357.8	-39.1	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv06f	sv06	sv06f1
+288.1	This study			-44									Igneous	Lava Flow	35.192	Basalt	247.807	FS-FD:SO-POM:SO-SUN	g		sv06g	sv06	
+	This study		sample direction.		59.6	24	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-SUN:LP-DIR-AF			sv06g	sv06	sv06g1
+271.5	This study			-73									Igneous	Lava Flow	35.192	Basalt	247.807	FS-FD:SO-POM:SO-SUN	g		sv06h	sv06	
+	This study	DE-SPEC	sample direction.		344.7	-25.1	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv06h	sv06	sv06h1
+318	This study			-57									Igneous	Lava Flow	35.192	Basalt	247.807	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv06i	sv06	
+291	This study			-10									Igneous	Lava Flow	35.192	Basalt	247.807	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv06j	sv06	
+248	This study			-12									Igneous	Lava Flow	35.194	Basalt	247.807	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv07a	sv07	
+	This study	DE-SPEC	sample direction.		4.1	57.1	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv07a	sv07	sv07a1
+215	This study			-52									Igneous	Lava Flow	35.194	Basalt	247.807	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv07b	sv07	
+	This study	DE-SPEC	sample direction.		352.3	61.6	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv07b	sv07	sv07b1
+180	This study			-62									Igneous	Lava Flow	35.194	Basalt	247.807	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv07c	sv07	
+	This study	DE-SPEC	sample direction.		346.5	62.5	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv07c	sv07	sv07c1
+225	This study			-38									Igneous	Lava Flow	35.194	Basalt	247.807	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv07d	sv07	
+	This study	DE-SPEC	sample direction.		351.2	65.3	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv07d	sv07	sv07d1
+236	This study			-39									Igneous	Lava Flow	35.194	Basalt	247.807	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv07e	sv07	
+252	This study			-18									Igneous	Lava Flow	35.194	Basalt	247.807	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv07f	sv07	
+	This study	DE-SPEC	sample direction.		344.1	60.2	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv07f	sv07	sv07f2
+243	This study			-12									Igneous	Lava Flow	35.194	Basalt	247.807	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv07g	sv07	
+	This study	DE-SPEC	sample direction.		341.2	59.3	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv07g	sv07	sv07g1
+219	This study			-86									Igneous	Lava Flow	35.194	Basalt	247.807	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv07h	sv07	
+258	This study			-53									Igneous	Lava Flow	35.194	Basalt	247.807	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv07i	sv07	
+	This study	DE-SPEC	sample direction.		352.3	64.6	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv07i	sv07	sv07i1
+215	This study			-59									Igneous	Lava Flow	35.194	Basalt	247.807	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv07j	sv07	
+	This study		sample direction.		200.3	24.6	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-CMD-NORTH:LP-DIR-AF			sv07j	sv07	sv07j1
+247	This study			-51									Igneous	Lava Flow	35.194	Basalt	247.807	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv07k	sv07	
+193	This study			-42									Igneous	Lava Flow	35.194	Basalt	247.807	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv07l	sv07	
+148.9	This study			-19									Igneous	Lava Flow	35.17	Basalt	247.77	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv08a	sv08	
+	This study	DE-SPEC	sample direction.		173.5	-46.7	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv08a	sv08	sv08a1
+49.2	This study			-27									Igneous	Lava Flow	35.17	Basalt	247.77	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv08b	sv08	
+	This study	DE-SPEC	sample direction.		165	-38.2	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv08b	sv08	sv08b1
+35.5	This study			-27									Igneous	Lava Flow	35.17	Basalt	247.77	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv08c	sv08	
+	This study	DE-SPEC	sample direction.		164.7	-41.1	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv08c	sv08	sv08c1
+160.4	This study			-14									Igneous	Lava Flow	35.17	Basalt	247.77	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv08d	sv08	
+	This study	DE-SPEC	sample direction.		160.9	-48.9	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv08d	sv08	sv08d1
+146.2	This study			-20									Igneous	Lava Flow	35.17	Basalt	247.77	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv08e	sv08	
+	This study	DE-SPEC	sample direction.		171.2	-53.8	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv08e	sv08	sv08e1
+113.5	This study			-13									Igneous	Lava Flow	35.17	Basalt	247.77	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv08f	sv08	
+177	This study			-19									Igneous	Lava Flow	35.17	Basalt	247.77	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv08g	sv08	
+	This study	DE-SPEC	sample direction.		169.4	-48.3	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv08g	sv08	sv08g1
+74.2	This study			-20									Igneous	Lava Flow	35.17	Basalt	247.77	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv08h	sv08	
+	This study	DE-SPEC	sample direction.		156.6	-44.8	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv08h	sv08	sv08h1
+357.7	This study			-6									Igneous	Lava Flow	35.17	Basalt	247.77	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv08i	sv08	
+182.8	This study			-13									Igneous	Lava Flow	35.17	Basalt	247.77	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv08j	sv08	
+62.4	This study			-40									Igneous	Lava Flow	35.442	Basalt	248.081	FS-FD:SO-POM:SO-SUN	g		sv09a	sv09	
+93.3	This study			-61									Igneous	Lava Flow	35.442	Basalt	248.081	FS-FD:SO-POM:SO-SUN	g		sv09b	sv09	
+46.7	This study			-31									Igneous	Lava Flow	35.442	Basalt	248.081	FS-FD:SO-POM:SO-SUN	g		sv09c	sv09	
+73.2	This study			-21									Igneous	Lava Flow	35.442	Basalt	248.081	FS-FD:SO-POM:SO-SUN	g		sv09d	sv09	
+72.6	This study			-37									Igneous	Lava Flow	35.442	Basalt	248.081	FS-FD:SO-POM:SO-SUN	g		sv09e	sv09	
+	This study	DE-SPEC	sample direction.		242.7	-69	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv09e	sv09	sv09e1
+79.1	This study			-36									Igneous	Lava Flow	35.442	Basalt	248.081	FS-FD:SO-POM:SO-SUN	g		sv09f	sv09	
+	This study	DE-SPEC	sample direction.		277	-61.2	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv09f	sv09	sv09f1
+43.6	This study			-33									Igneous	Lava Flow	35.442	Basalt	248.081	FS-FD:SO-POM:SO-SUN	g		sv09g	sv09	
+81.1	This study			-36									Igneous	Lava Flow	35.442	Basalt	248.081	FS-FD:SO-POM:SO-SUN	g		sv09h	sv09	
+96.1	This study			-32									Igneous	Lava Flow	35.442	Basalt	248.081	FS-FD:SO-POM:SO-SUN	g		sv09i	sv09	
+	This study	DE-SPEC	sample direction.		242.5	-68.6	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv09i	sv09	sv09i1
+68.7	This study			-61									Igneous	Lava Flow	35.442	Basalt	248.081	FS-FD:SO-POM:SO-SUN	g		sv09j	sv09	
+	This study	DE-SPEC	sample direction.		230.6	-67.7	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv09j	sv09	sv09j1
+91.3	This study			-33									Igneous	Lava Flow	35.442	Basalt	248.081	FS-FD:SO-POM:SO-SUN	g		sv09k	sv09	
+58.6	This study			-35									Igneous	Lava Flow	35.2631	Basalt	248.173	FS-FD:SO-POM:SO-SUN	g		sv10a	sv10	
+	This study		sample direction.		222.6	45.2	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-SUN:LP-DIR-AF			sv10a	sv10	sv10a1
+43.8	This study			-76.5									Igneous	Lava Flow	35.2631	Basalt	248.173	FS-FD:SO-POM:SO-SUN	g		sv10b	sv10	
+62.9	This study			-59									Igneous	Lava Flow	35.2631	Basalt	248.173	FS-FD:SO-POM:SO-SUN	g		sv10c	sv10	
+	This study		sample direction.		264.7	14.7	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-SUN:LP-DIR-AF			sv10c	sv10	sv10c1
+13.3	This study			-48									Igneous	Lava Flow	35.2631	Basalt	248.173	FS-FD:SO-POM:SO-SUN	g		sv10d	sv10	
+338.8	This study			-44									Igneous	Lava Flow	35.2631	Basalt	248.173	FS-FD:SO-POM:SO-SUN	g		sv10e	sv10	
+45.7	This study			-80									Igneous	Lava Flow	35.2631	Basalt	248.173	FS-FD:SO-POM:SO-SUN	g		sv10f	sv10	
+	This study		sample direction.		344.5	-34.7	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-SUN:LP-DIR-AF			sv10f	sv10	sv10f1
+65	This study			-44									Igneous	Lava Flow	35.2631	Basalt	248.173	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv10g	sv10	
+	This study		sample direction.		139.9	27.6	1	0	1			0						DA-DIR-GEO:DE-BFP:LP-DIR-T:SO-CMD-NORTH:LP-DIR-AF			sv10g	sv10	sv10g1
+355.1	This study			-35									Igneous	Lava Flow	35.2631	Basalt	248.173	FS-FD:SO-POM:SO-SUN	g		sv10h	sv10	
+19.1	This study			-48									Igneous	Lava Flow	35.2631	Basalt	248.173	FS-FD:SO-POM:SO-SUN	g		sv10i	sv10	
+16.3	This study			-40									Igneous	Lava Flow	35.2631	Basalt	248.173	FS-FD:SO-POM:SO-SUN	g		sv10j	sv10	
+	This study		sample direction.		93.7	6	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-SUN:LP-DIR-AF			sv10j	sv10	sv10j1
+5.8	This study			-40									Igneous	Lava Flow	35.2631	Basalt	248.173	FS-FD:SO-POM:SO-SUN	g		sv10k	sv10	
+35.6	This study			-97									Igneous	Lava Flow	35.263	Basalt	248.174	FS-FD:SO-POM:SO-SUN	g		sv11a	sv11	
+	This study		sample direction.		206.7	45.6	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-SUN:LP-DIR-AF			sv11a	sv11	sv11a1
+41.7	This study			-84									Igneous	Lava Flow	35.263	Basalt	248.174	FS-FD:SO-POM:SO-SUN	g		sv11b	sv11	
+	This study		sample direction.		149	42.9	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-SUN:LP-DIR-AF			sv11b	sv11	sv11b1
+37.3	This study			-66									Igneous	Lava Flow	35.263	Basalt	248.174	FS-FD:SO-POM:SO-SUN	g		sv11d	sv11	
+85	This study			-49									Igneous	Lava Flow	35.263	Basalt	248.174	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv11e	sv11	
+79	This study			-51									Igneous	Lava Flow	35.263	Basalt	248.174	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv11f	sv11	
+83	This study			-71									Igneous	Lava Flow	35.263	Basalt	248.174	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv11g	sv11	
+65	This study			-64									Igneous	Lava Flow	35.263	Basalt	248.174	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv11h	sv11	
+63	This study			-59.5									Igneous	Lava Flow	35.263	Basalt	248.174	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv11j	sv11	
+65	This study			-51									Igneous	Lava Flow	35.263	Basalt	248.174	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv11k	sv11	
+	This study	DE-SPEC	sample direction.		193.6	-39	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv11k	sv11	sv11k1
+45	This study			-47									Igneous	Lava Flow	35.263	Basalt	248.174	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv11l	sv11	
+40	This study			-50									Igneous	Lava Flow	35.263	Basalt	248.174	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv11m	sv11	
+75	This study			-62									Igneous	Lava Flow	35.263	Basalt	248.174	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv11n	sv11	
+	This study	DE-SPEC	sample direction.		197.7	-51.2	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv11n	sv11	sv11n1
+229.1	This study			-70									Igneous	Lava Flow	35.334	Basalt	248.156	FS-FD:SO-POM:SO-SUN	g		sv12a	sv12	
+253.2	This study			-59									Igneous	Lava Flow	35.334	Basalt	248.156	FS-FD:SO-POM:SO-SUN	g		sv12b	sv12	
+316.5	This study			-42									Igneous	Lava Flow	35.334	Basalt	248.156	FS-FD:SO-POM:SO-SUN	g		sv12c	sv12	
+300.6	This study			-70									Igneous	Lava Flow	35.334	Basalt	248.156	FS-FD:SO-POM:SO-SUN	g		sv12d	sv12	
+315.2	This study			-61.5									Igneous	Lava Flow	35.334	Basalt	248.156	FS-FD:SO-POM:SO-SUN	g		sv12e	sv12	
+	This study		sample direction.		89.5	-21.1	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-SUN:LP-DIR-AF			sv12e	sv12	sv12e1
+312.3	This study			-79									Igneous	Lava Flow	35.334	Basalt	248.156	FS-FD:SO-POM:SO-SUN	g		sv12f	sv12	
+353.4	This study			-78									Igneous	Lava Flow	35.334	Basalt	248.156	FS-FD:SO-POM:SO-SUN	g		sv12g	sv12	
+339.4	This study			-28									Igneous	Lava Flow	35.334	Basalt	248.156	FS-FD:SO-POM:SO-SUN	g		sv12h	sv12	
+322.4	This study			-37									Igneous	Lava Flow	35.334	Basalt	248.156	FS-FD:SO-POM:SO-SUN	g		sv12i	sv12	
+335	This study			-75									Igneous	Lava Flow	35.334	Basalt	248.156	FS-FD:SO-POM:SO-SUN	g		sv12j	sv12	
+12	This study			-66									Igneous	Lava Flow	35.334	Basalt	248.156	FS-FD:SO-POM:SO-SUN	g		sv12k	sv12	
+267	This study			-68									Igneous	Lava Flow	35.323	Basalt	248.285	FS-FD:SO-POM:SO-SUN	g		sv13a	sv13	
+290.2	This study			-68									Igneous	Lava Flow	35.323	Basalt	248.285	FS-FD:SO-POM:SO-SUN	g		sv13b	sv13	
+297.5	This study			-68									Igneous	Lava Flow	35.323	Basalt	248.285	FS-FD:SO-POM:SO-SUN	g		sv13c	sv13	
+288.4	This study			-63									Igneous	Lava Flow	35.323	Basalt	248.285	FS-FD:SO-POM:SO-SUN	g		sv13d	sv13	
+214.7	This study			-66									Igneous	Lava Flow	35.323	Basalt	248.285	FS-FD:SO-POM:SO-SUN	g		sv13e	sv13	
+225.9	This study			-57									Igneous	Lava Flow	35.323	Basalt	248.285	FS-FD:SO-POM:SO-SUN	g		sv13f	sv13	
+263.2	This study			-56									Igneous	Lava Flow	35.323	Basalt	248.285	FS-FD:SO-POM:SO-SUN	g		sv13g	sv13	
+347.8	This study			-54									Igneous	Lava Flow	35.323	Basalt	248.285	FS-FD:SO-POM:SO-SUN	g		sv13h	sv13	
+285.1	This study			-57									Igneous	Lava Flow	35.323	Basalt	248.285	FS-FD:SO-POM:SO-SUN	g		sv13i	sv13	
+215.6	This study			-57									Igneous	Lava Flow	35.323	Basalt	248.285	FS-FD:SO-POM:SO-SUN	g		sv13j	sv13	
+159	This study			-34									Igneous	Lava Flow	35.249	Basalt	248.31	FS-FD:SO-POM:SO-SUN	g		sv15a	sv15	
+	This study	DE-SPEC	sample direction.		345.5	24.2	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv15a	sv15	sv15a1
+248.4	This study			-68									Igneous	Lava Flow	35.249	Basalt	248.31	FS-FD:SO-POM:SO-SUN	g		sv15b	sv15	
+	This study	DE-SPEC	sample direction.		346.2	26.6	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv15b	sv15	sv15b1
+206.8	This study			-32									Igneous	Lava Flow	35.249	Basalt	248.31	FS-FD:SO-POM:SO-SUN	g		sv15c	sv15	
+	This study	DE-SPEC	sample direction.		351.3	24.5	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv15c	sv15	sv15c1
+227.2	This study			-20									Igneous	Lava Flow	35.249	Basalt	248.31	FS-FD:SO-POM:SO-SUN	g		sv15d	sv15	
+	This study	DE-SPEC	sample direction.		355.3	24.4	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv15d	sv15	sv15d1
+216.6	This study			-23									Igneous	Lava Flow	35.249	Basalt	248.31	FS-FD:SO-POM:SO-SUN	g		sv15e	sv15	
+202.8	This study			-34									Igneous	Lava Flow	35.249	Basalt	248.31	FS-FD:SO-POM:SO-SUN	g		sv15f	sv15	
+	This study	DE-SPEC	sample direction.		355.2	26.2	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv15f	sv15	sv15f1
+250.7	This study			-44									Igneous	Lava Flow	35.249	Basalt	248.31	FS-FD:SO-POM:SO-SUN	g		sv15g	sv15	
+230.1	This study			-30									Igneous	Lava Flow	35.249	Basalt	248.31	FS-FD:SO-POM:SO-SUN	g		sv15h	sv15	
+	This study	DE-SPEC	sample direction.		3.4	26.5	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv15h	sv15	sv15h1
+201	This study			-46									Igneous	Lava Flow	35.249	Basalt	248.31	FS-FD:SO-POM:SO-SUN	g		sv15i	sv15	
+213.9	This study			-52.5									Igneous	Lava Flow	35.249	Basalt	248.31	FS-FD:SO-POM:SO-SUN	g		sv15j	sv15	
+33	This study			-49									Igneous	Lava Flow	35.2401	Basalt	248.317	FS-FD:SO-POM:SO-SUN	g		sv16a	sv16	
+	This study	DE-SPEC	sample direction.		350.6	28.4	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv16a	sv16	sv16a1
+53.1	This study			-45									Igneous	Lava Flow	35.2401	Basalt	248.317	FS-FD:SO-POM:SO-SUN	g		sv16b	sv16	
+	This study	DE-SPEC	sample direction.		352.3	28.9	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv16b	sv16	sv16b1
+65.6	This study			-50									Igneous	Lava Flow	35.2401	Basalt	248.317	FS-FD:SO-POM:SO-SUN	g		sv16c	sv16	
+	This study	DE-SPEC	sample direction.		358.7	23.6	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv16c	sv16	sv16c1
+38.2	This study			-31									Igneous	Lava Flow	35.2401	Basalt	248.317	FS-FD:SO-POM:SO-SUN	g		sv16d	sv16	
+89.3	This study			-38									Igneous	Lava Flow	35.2401	Basalt	248.317	FS-FD:SO-POM:SO-SUN	g		sv16e	sv16	
+	This study	DE-SPEC	sample direction.		359.8	19.8	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv16e	sv16	sv16e1
+108.8	This study			-53									Igneous	Lava Flow	35.2401	Basalt	248.317	FS-FD:SO-POM:SO-SUN	g		sv16f	sv16	
+118.4	This study			-63									Igneous	Lava Flow	35.2401	Basalt	248.317	FS-FD:SO-POM:SO-SUN	g		sv16g	sv16	
+91.5	This study			-74.5									Igneous	Lava Flow	35.2401	Basalt	248.317	FS-FD:SO-POM:SO-SUN	g		sv16h	sv16	
+	This study		sample direction.		48	-61.3	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-SUN:LP-DIR-AF			sv16h	sv16	sv16h1
+88	This study			-90									Igneous	Lava Flow	35.2401	Basalt	248.317	FS-FD:SO-POM:SO-SUN	g		sv16i	sv16	
+84.1	This study			-37									Igneous	Lava Flow	35.2401	Basalt	248.317	FS-FD:SO-POM:SO-SUN	g		sv16j	sv16	
+62.2	This study			-51									Igneous	Lava Flow	35.218	Basalt	248.557	FS-FD:SO-POM:SO-SUN	g		sv17a	sv17	
+18.1	This study			-35									Igneous	Lava Flow	35.218	Basalt	248.557	FS-FD:SO-POM:SO-SUN	g		sv17b	sv17	
+	This study		sample direction.		202.2	28.4	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-SUN:LP-DIR-AF			sv17b	sv17	sv17b1
+0.3	This study			-63									Igneous	Lava Flow	35.218	Basalt	248.557	FS-FD:SO-POM:SO-SUN	g		sv17c	sv17	
+29.1	This study			-30									Igneous	Lava Flow	35.218	Basalt	248.557	FS-FD:SO-POM:SO-SUN	g		sv17d	sv17	
+38.9	This study			-32									Igneous	Lava Flow	35.218	Basalt	248.557	FS-FD:SO-POM:SO-SUN	g		sv17e	sv17	
+7.7	This study			-40									Igneous	Lava Flow	35.218	Basalt	248.557	FS-FD:SO-POM:SO-SUN	g		sv17f	sv17	
+6.4	This study			-49									Igneous	Lava Flow	35.218	Basalt	248.557	FS-FD:SO-POM:SO-SUN	g		sv17g	sv17	
+0.3	This study			-40									Igneous	Lava Flow	35.218	Basalt	248.557	FS-FD:SO-POM:SO-SUN	g		sv17h	sv17	
+17.1	This study			-47									Igneous	Lava Flow	35.218	Basalt	248.557	FS-FD:SO-POM:SO-SUN	g		sv17i	sv17	
+	This study	DE-SPEC	sample direction.		131.9	62	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv17i	sv17	sv17i1
+28.8	This study			-44									Igneous	Lava Flow	35.218	Basalt	248.557	FS-FD:SO-POM:SO-SUN	g		sv17j	sv17	
+10.7	This study			-69									Igneous	Lava Flow	35.218	Basalt	248.557	FS-FD:SO-POM:SO-SUN	g		sv17k	sv17	
+116.5	This study			-52									Igneous	Lava Flow	35.24	Basalt	247.813	FS-FD:SO-POM:SO-SUN	g		sv18a	sv18	
+46	This study			-54									Igneous	Lava Flow	35.24	Basalt	247.813	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv18b	sv18	
+90	This study			-48									Igneous	Lava Flow	35.24	Basalt	247.813	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv18c	sv18	
+	This study	DE-SPEC	sample direction.		195.9	-56.1	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv18c	sv18	sv18c1
+105	This study			-47									Igneous	Lava Flow	35.24	Basalt	247.813	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv18d	sv18	
+181	This study			-10									Igneous	Lava Flow	35.24	Basalt	247.813	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv18e	sv18	
+273	This study			-19									Igneous	Lava Flow	35.24	Basalt	247.813	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv18f	sv18	
+	This study	DE-SPEC	sample direction.		192.5	-56.8	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv18f	sv18	sv18f1
+227	This study			-21									Igneous	Lava Flow	35.24	Basalt	247.813	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv18g	sv18	
+	This study	DE-SPEC	sample direction.		197.3	-55.5	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv18g	sv18	sv18g1
+282	This study			-22.5									Igneous	Lava Flow	35.24	Basalt	247.813	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv18h	sv18	
+	This study	DE-SPEC	sample direction.		193.4	-57.4	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv18h	sv18	sv18h1
+196	This study			-20									Igneous	Lava Flow	35.24	Basalt	247.813	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv18i	sv18	
+191	This study			-21									Igneous	Lava Flow	35.24	Basalt	247.813	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv18j	sv18	
+88.9	This study			-68.5									Igneous	Lava Flow	35.664	Basalt	248.446	FS-FD:SO-POM:SO-SUN	g		sv19a	sv19	
+29.4	This study			-77									Igneous	Lava Flow	35.664	Basalt	248.446	FS-FD:SO-POM:SO-SUN	g		sv19b	sv19	
+306.2	This study			-57									Igneous	Lava Flow	35.664	Basalt	248.446	FS-FD:SO-POM:SO-SUN	g		sv19c	sv19	
+	This study	DE-SPEC	sample direction.		219	32.4	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv19c	sv19	sv19c1
+42.9	This study			-88									Igneous	Lava Flow	35.664	Basalt	248.446	FS-FD:SO-POM:SO-SUN	g		sv19d	sv19	
+35.8	This study			-90									Igneous	Lava Flow	35.664	Basalt	248.446	FS-FD:SO-POM:SO-SUN	g		sv19e	sv19	
+49.8	This study			-64									Igneous	Lava Flow	35.664	Basalt	248.446	FS-FD:SO-POM:SO-SUN	g		sv19f	sv19	
+58.3	This study			-76									Igneous	Lava Flow	35.664	Basalt	248.446	FS-FD:SO-POM:SO-SUN	g		sv19g	sv19	
+76.6	This study			-67									Igneous	Lava Flow	35.664	Basalt	248.446	FS-FD:SO-POM:SO-SUN	g		sv19h	sv19	
+24.6	This study			-89.5									Igneous	Lava Flow	35.664	Basalt	248.446	FS-FD:SO-POM:SO-SUN	g		sv19i	sv19	
+20.8	This study			-94									Igneous	Lava Flow	35.664	Basalt	248.446	FS-FD:SO-POM:SO-SUN	g		sv19j	sv19	
+253.6	This study			-14.5									Igneous	Lava Flow	35.66	Basalt	248.462	FS-FD:SO-POM:SO-SUN	g		sv20a	sv20	
+116.1	This study			-41.5									Igneous	Lava Flow	35.66	Basalt	248.462	FS-FD:SO-POM:SO-SUN	g		sv20b	sv20	
+68	This study			-70									Igneous	Lava Flow	35.66	Basalt	248.462	FS-FD:SO-POM:SO-SUN	g		sv20c	sv20	
+	This study	DE-SPEC	sample direction.		355.8	42.6	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv20c	sv20	sv20c1
+92.5	This study			-63									Igneous	Lava Flow	35.66	Basalt	248.462	FS-FD:SO-POM:SO-SUN	g		sv20d	sv20	
+263.8	This study			-43.5									Igneous	Lava Flow	35.66	Basalt	248.462	FS-FD:SO-POM:SO-SUN	g		sv20e	sv20	
+236.2	This study			-34									Igneous	Lava Flow	35.66	Basalt	248.462	FS-FD:SO-POM:SO-SUN	g		sv20f	sv20	
+259.8	This study			-83.5									Igneous	Lava Flow	35.66	Basalt	248.462	FS-FD:SO-POM:SO-SUN	g		sv20h	sv20	
+237.9	This study			-72									Igneous	Lava Flow	35.66	Basalt	248.462	FS-FD:SO-POM:SO-SUN	g		sv20i	sv20	
+245.1	This study			-35									Igneous	Lava Flow	35.66	Basalt	248.462	FS-FD:SO-POM:SO-SUN	g		sv20j	sv20	
+97.5	This study			-66.5									Igneous	Lava Flow	35.66	Basalt	248.462	FS-FD:SO-POM:SO-SUN	g		sv20k	sv20	
+215.9	This study			-77									Igneous	Lava Flow	35.645	Basalt	248.49	FS-FD:SO-POM:SO-SUN	g		sv21a	sv21	
+206.5	This study			-68.5									Igneous	Lava Flow	35.645	Basalt	248.49	FS-FD:SO-POM:SO-SUN	g		sv21b	sv21	
+210.6	This study			-63									Igneous	Lava Flow	35.645	Basalt	248.49	FS-FD:SO-POM:SO-SUN	g		sv21c	sv21	
+217.8	This study			-54									Igneous	Lava Flow	35.645	Basalt	248.49	FS-FD:SO-POM:SO-SUN	g		sv21d	sv21	
+201.4	This study			-59									Igneous	Lava Flow	35.645	Basalt	248.49	FS-FD:SO-POM:SO-SUN	g		sv21e	sv21	
+293.1	This study			-48									Igneous	Lava Flow	35.645	Basalt	248.49	FS-FD:SO-POM:SO-SUN	g		sv21f	sv21	
+215.3	This study			-38.5									Igneous	Lava Flow	35.645	Basalt	248.49	FS-FD:SO-POM:SO-SUN	g		sv21g	sv21	
+	This study	DE-SPEC	sample direction.		76.7	-4.3	1	1	0			0						DA-DIR-GEO:DE-BFL:LP-DIR-T:SO-SUN:LP-DIR-AF			sv21g	sv21	sv21g1
+224.9	This study			-24.5									Igneous	Lava Flow	35.645	Basalt	248.49	FS-FD:SO-POM:SO-SUN	g		sv21h	sv21	
+257.6	This study			-17.5									Igneous	Lava Flow	35.645	Basalt	248.49	FS-FD:SO-POM:SO-SUN	g		sv21i	sv21	
+	This study	DE-SPEC	sample direction.		132.2	-0.9	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv21i	sv21	sv21i1
+264.9	This study			-88.5									Igneous	Lava Flow	35.645	Basalt	248.49	FS-FD:SO-POM:SO-SUN	g		sv21j	sv21	
+340.3	This study			-10									Igneous	Lava Flow	35.645	Basalt	248.49	FS-FD:SO-POM:SO-SUN	g		sv21k	sv21	
+199.7	This study			-54									Igneous	Lava Flow	35.588	Basalt	248.483	FS-FD:SO-POM:SO-SUN	g		sv22a	sv22	
+199.2	This study			-34.5									Igneous	Lava Flow	35.588	Basalt	248.483	FS-FD:SO-POM:SO-SUN	g		sv22b	sv22	
+253.5	This study			-24									Igneous	Lava Flow	35.588	Basalt	248.483	FS-FD:SO-POM:SO-SUN	g		sv22c	sv22	
+	This study		sample direction.		263.2	-2.7	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-SUN:LP-DIR-AF			sv22c	sv22	sv22c1
+220.5	This study			-24									Igneous	Lava Flow	35.588	Basalt	248.483	FS-FD:SO-POM:SO-SUN	g		sv22d	sv22	
+283.5	This study			-14									Igneous	Lava Flow	35.588	Basalt	248.483	FS-FD:SO-POM:SO-SUN	g		sv22e	sv22	
+227.2	This study			-64.5									Igneous	Lava Flow	35.588	Basalt	248.483	FS-FD:SO-POM:SO-SUN	g		sv22f	sv22	
+230.7	This study			-68.5									Igneous	Lava Flow	35.588	Basalt	248.483	FS-FD:SO-POM:SO-SUN	g		sv22g	sv22	
+246.9	This study			-59									Igneous	Lava Flow	35.588	Basalt	248.483	FS-FD:SO-POM:SO-SUN	g		sv22h	sv22	
+228	This study			-42									Igneous	Lava Flow	35.588	Basalt	248.483	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv22i	sv22	
+191.8	This study			-51									Igneous	Lava Flow	35.588	Basalt	248.483	FS-FD:SO-POM:SO-SUN	g		sv22j	sv22	
+186.3	This study			-37									Igneous	Lava Flow	35.588	Basalt	248.483	FS-FD:SO-POM:SO-SUN	g		sv22k	sv22	
+310.3	This study			-35									Igneous	Lava Flow	35.482	Basalt	248.641	FS-FD:SO-POM:SO-SUN	g		sv23a	sv23	
+	This study	DE-SPEC	sample direction.		20.6	28.7	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv23a	sv23	sv23a1
+283.9	This study			-37									Igneous	Lava Flow	35.482	Basalt	248.641	FS-FD:SO-POM:SO-SUN	g		sv23b	sv23	
+	This study	DE-SPEC	sample direction.		17	29.3	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv23b	sv23	sv23b1
+8.4	This study			-52									Igneous	Lava Flow	35.482	Basalt	248.641	FS-FD:SO-POM:SO-SUN	g		sv23c	sv23	
+295.9	This study			-39									Igneous	Lava Flow	35.482	Basalt	248.641	FS-FD:SO-POM:SO-SUN	g		sv23d	sv23	
+261.4	This study			-50.5									Igneous	Lava Flow	35.482	Basalt	248.641	FS-FD:SO-POM:SO-SUN	g		sv23e	sv23	
+120.4	This study			-82									Igneous	Lava Flow	35.482	Basalt	248.641	FS-FD:SO-POM:SO-SUN	g		sv23f	sv23	
+	This study	DE-SPEC	sample direction.		18.2	26.7	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv23f	sv23	sv23f1
+122.2	This study			-54									Igneous	Lava Flow	35.482	Basalt	248.641	FS-FD:SO-POM:SO-SUN	g		sv23g	sv23	
+	This study	DE-SPEC	sample direction.		25.1	29	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv23g	sv23	sv23g1
+136.7	This study			-74.5									Igneous	Lava Flow	35.482	Basalt	248.641	FS-FD:SO-POM:SO-SUN	g		sv23h	sv23	
+172.6	This study			-33									Igneous	Lava Flow	35.482	Basalt	248.641	FS-FD:SO-POM:SO-SUN	g		sv23i	sv23	
+134.1	This study			-56									Igneous	Lava Flow	35.482	Basalt	248.641	FS-FD:SO-POM:SO-SUN	g		sv23j	sv23	
+50.8	This study			-92									Igneous	Lava Flow	35.4673	Basalt	248.6415	FS-FD:SO-POM:SO-SUN	g		sv24a	sv24	
+51.7	This study			-85									Igneous	Lava Flow	35.4673	Basalt	248.6415	FS-FD:SO-POM:SO-SUN	g		sv24b	sv24	
+	This study	DE-SPEC	sample direction.		343	63.4	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv24b	sv24	sv24b1
+69.7	This study			-86									Igneous	Lava Flow	35.4673	Basalt	248.6415	FS-FD:SO-POM:SO-SUN	g		sv24c	sv24	
+	This study	DE-SPEC	sample direction.		356.8	58.6	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv24c	sv24	sv24c1
+121	This study			-59									Igneous	Lava Flow	35.4673	Basalt	248.6415	FS-FD:SO-POM:SO-SUN	g		sv24d	sv24	
+	This study	DE-SPEC	sample direction.		353.7	64.1	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv24d	sv24	sv24d1
+119.2	This study			-55.5									Igneous	Lava Flow	35.4673	Basalt	248.6415	FS-FD:SO-POM:SO-SUN	g		sv24e	sv24	
+118.9	This study			-54									Igneous	Lava Flow	35.4673	Basalt	248.6415	FS-FD:SO-POM:SO-SUN	g		sv24f	sv24	
+347.8	This study			-74.5									Igneous	Lava Flow	35.4673	Basalt	248.6415	FS-FD:SO-POM:SO-SUN	g		sv24g	sv24	
+	This study	DE-SPEC	sample direction.		317.5	63.2	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv24g	sv24	sv24g1
+38	This study			-88.5									Igneous	Lava Flow	35.4673	Basalt	248.6415	FS-FD:SO-POM:SO-SUN	g		sv24h	sv24	
+	This study	DE-SPEC	sample direction.		348.8	63.6	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv24h	sv24	sv24h1
+16.4	This study			-99.5									Igneous	Lava Flow	35.4673	Basalt	248.6415	FS-FD:SO-POM:SO-SUN	g		sv24i	sv24	
+	This study	DE-SPEC	sample direction.		335.1	62.7	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv24i	sv24	sv24i1
+47.7	This study			-64									Igneous	Lava Flow	35.4673	Basalt	248.6415	FS-FD:SO-POM:SO-SUN	g		sv24j	sv24	
+	This study	DE-SPEC	sample direction.		315.9	64.1	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv24j	sv24	sv24j1
+54.4	This study			-60.5									Igneous	Lava Flow	35.4673	Basalt	248.6415	FS-FD:SO-POM:SO-SUN	g		sv24k	sv24	
+350.5	This study			-48									Igneous	Lava Flow	35.6243	Basalt	248.2548	FS-FD:SO-POM:SO-SUN	g		sv25a	sv25	
+292.5	This study			-40									Igneous	Lava Flow	35.6243	Basalt	248.2548	FS-FD:SO-POM:SO-SUN	g		sv25b	sv25	
+255.5	This study			-66									Igneous	Lava Flow	35.6243	Basalt	248.2548	FS-FD:SO-POM:SO-SUN	g		sv25c	sv25	
+292.5	This study			-39									Igneous	Lava Flow	35.6243	Basalt	248.2548	FS-FD:SO-POM:SO-SUN	g		sv25d	sv25	
+298.8	This study			-22									Igneous	Lava Flow	35.6243	Basalt	248.2548	FS-FD:SO-POM:SO-SUN	g		sv25e	sv25	
+334.4	This study			-41									Igneous	Lava Flow	35.6243	Basalt	248.2548	FS-FD:SO-POM:SO-SUN	g		sv25f	sv25	
+330	This study			-41									Igneous	Lava Flow	35.6243	Basalt	248.2548	FS-FD:SO-POM:SO-SUN	g		sv25g	sv25	
+334.8	This study			-48									Igneous	Lava Flow	35.6243	Basalt	248.2548	FS-FD:SO-POM:SO-SUN	g		sv25h	sv25	
+300.5	This study			-59									Igneous	Lava Flow	35.6243	Basalt	248.2548	FS-FD:SO-POM:SO-SUN	g		sv25i	sv25	
+345.5	This study			-36									Igneous	Lava Flow	35.6243	Basalt	248.2548	FS-FD:SO-POM:SO-SUN	g		sv25j	sv25	
+	This study	DE-SPEC	sample direction.		274.6	36.6	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv25j	sv25	sv25j1
+346.3	This study			-67									Igneous	Lava Flow	35.5887	Basalt	248.3583	FS-FD:SO-POM:SO-SUN	g		sv26a	sv26	
+338.7	This study			-80									Igneous	Lava Flow	35.5887	Basalt	248.3583	FS-FD:SO-POM:SO-SUN	g		sv26b	sv26	
+322.7	This study			-80									Igneous	Lava Flow	35.5887	Basalt	248.3583	FS-FD:SO-POM:SO-SUN	g		sv26c	sv26	
+253.2	This study			-63									Igneous	Lava Flow	35.5887	Basalt	248.3583	FS-FD:SO-POM:SO-SUN	g		sv26d	sv26	
+	This study		sample direction.		174.6	25.8	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-SUN:LP-DIR-AF			sv26d	sv26	sv26d1
+294.9	This study			-68.5									Igneous	Lava Flow	35.5887	Basalt	248.3583	FS-FD:SO-POM:SO-SUN	g		sv26e	sv26	
+299.7	This study			-65									Igneous	Lava Flow	35.5887	Basalt	248.3583	FS-FD:SO-POM:SO-SUN	g		sv26f	sv26	
+270.1	This study			-69									Igneous	Lava Flow	35.5887	Basalt	248.3583	FS-FD:SO-POM:SO-SUN	g		sv26g	sv26	
+	This study	DE-SPEC	sample direction.		167.9	-62.8	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv26g	sv26	sv26g1
+249.3	This study			-63									Igneous	Lava Flow	35.5887	Basalt	248.3583	FS-FD:SO-POM:SO-SUN	g		sv26h	sv26	
+	This study	DE-SPEC	sample direction.		150.7	-71.5	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv26h	sv26	sv26h2
+223.2	This study			-74									Igneous	Lava Flow	35.5887	Basalt	248.3583	FS-FD:SO-POM:SO-SUN	g		sv26i	sv26	
+	This study	DE-SPEC	sample direction.		137.9	-66.4	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv26i	sv26	sv26i1
+224.3	This study			-62									Igneous	Lava Flow	35.5887	Basalt	248.3583	FS-FD:SO-POM:SO-SUN	g		sv26j	sv26	
+210.5	This study			-80.5									Igneous	Lava Flow	35.5887	Basalt	248.3583	FS-FD:SO-POM:SO-SUN	g		sv26k	sv26	
+	This study		sample direction.		131.3	14.7	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-SUN:LP-DIR-AF			sv26k	sv26	sv26k1
+209.4	This study			-82									Igneous	Lava Flow	35.5887	Basalt	248.3583	FS-FD:SO-POM:SO-SUN	g		sv26l	sv26	
+	This study	DE-SPEC	sample direction.		173.8	-75.3	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv26l	sv26	sv26l1
+302.2	This study			-70									Igneous	Lava Flow	35.5883	Basalt	248.3669	FS-FD:SO-POM:SO-SUN	g		sv27a	sv27	
+	This study	DE-SPEC	sample direction.		359.1	56.2	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv27a	sv27	sv27a1
+273.4	This study			-71									Igneous	Lava Flow	35.5883	Basalt	248.3669	FS-FD:SO-POM:SO-SUN	g		sv27b	sv27	
+52.5	This study			-19.5									Igneous	Lava Flow	35.5883	Basalt	248.3669	FS-FD:SO-POM:SO-SUN	g		sv27c	sv27	
+	This study	DE-SPEC	sample direction.		343.4	56.7	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv27c	sv27	sv27c1
+27.7	This study			-28.5									Igneous	Lava Flow	35.5883	Basalt	248.3669	FS-FD:SO-POM:SO-SUN	g		sv27d	sv27	
+	This study	DE-SPEC	sample direction.		354.4	50.5	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv27d	sv27	sv27d1
+35.8	This study			-38									Igneous	Lava Flow	35.5883	Basalt	248.3669	FS-FD:SO-POM:SO-SUN	g		sv27e	sv27	
+10.5	This study			-42.5									Igneous	Lava Flow	35.5883	Basalt	248.3669	FS-FD:SO-POM:SO-SUN	g		sv27f	sv27	
+32.2	This study			-49.5									Igneous	Lava Flow	35.5883	Basalt	248.3669	FS-FD:SO-POM:SO-SUN	g		sv27g	sv27	
+89.9	This study			-72									Igneous	Lava Flow	35.5883	Basalt	248.3669	FS-FD:SO-POM:SO-SUN	g		sv27h	sv27	
+78.6	This study			-68.5									Igneous	Lava Flow	35.5883	Basalt	248.3669	FS-FD:SO-POM:SO-SUN	g		sv27i	sv27	
+38.7	This study			-47									Igneous	Lava Flow	35.5883	Basalt	248.3669	FS-FD:SO-POM:SO-SUN	g		sv27j	sv27	
+	This study	DE-SPEC	sample direction.		1.2	58.1	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv27j	sv27	sv27j1
+47.4	This study			-70									Igneous	Lava Flow	35.5883	Basalt	248.3669	FS-FD:SO-POM:SO-SUN	g		sv27k	sv27	
+151.6	This study			-79									Igneous	Lava Flow	35.5883	Basalt	248.3669	FS-FD:SO-POM:SO-SUN	g		sv27l	sv27	
+	This study		sample direction.		41.8	-22.6	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-SUN:LP-DIR-AF			sv27l	sv27	sv27l1
+159.7	This study			-85.5									Igneous	Lava Flow	35.5883	Basalt	248.3669	FS-FD:SO-POM:SO-SUN	g		sv27m	sv27	
+90.2	This study			-81									Igneous	Lava Flow	35.5883	Basalt	248.3669	FS-FD:SO-POM:SO-SUN	g		sv27n	sv27	
+82.2	This study			-35									Igneous	Lava Flow	35.5883	Basalt	248.3669	FS-FD:SO-POM:SO-SUN	g		sv27o	sv27	
+72.1	This study			-69									Igneous	Lava Flow	35.5883	Basalt	248.3669	FS-FD:SO-POM:SO-SUN	g		sv27p	sv27	
+90.8	This study			-32.5									Igneous	Lava Flow	35.5838	Basalt	248.3925	FS-FD:SO-POM:SO-SUN	g		sv28a	sv28	
+26.8	This study			-51									Igneous	Lava Flow	35.5838	Basalt	248.3925	FS-FD:SO-POM:SO-SUN	g		sv28b	sv28	
+281.8	This study			-45.5									Igneous	Lava Flow	35.5838	Basalt	248.3925	FS-FD:SO-POM:SO-SUN	g		sv28c	sv28	
+291.6	This study			-70									Igneous	Lava Flow	35.5838	Basalt	248.3925	FS-FD:SO-POM:SO-SUN	g		sv28d	sv28	
+231.3	This study			-62									Igneous	Lava Flow	35.5838	Basalt	248.3925	FS-FD:SO-POM:SO-SUN	g		sv28e	sv28	
+318.6	This study			-62.5									Igneous	Lava Flow	35.5838	Basalt	248.3925	FS-FD:SO-POM:SO-SUN	g		sv28f	sv28	
+171	This study			-60									Igneous	Lava Flow	35.5838	Basalt	248.3925	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv28g	sv28	
+17.1	This study			-75									Igneous	Lava Flow	35.5838	Basalt	248.3925	FS-FD:SO-POM:SO-SUN	g		sv28h	sv28	
+	This study	DE-SPEC	sample direction.		29.7	11.7	1	1	0			0						DA-DIR-GEO:DE-BFL:LP-DIR-T:SO-SUN:LP-DIR-AF			sv28h	sv28	sv28h1
+11	This study			-74									Igneous	Lava Flow	35.5838	Basalt	248.3925	FS-FD:SO-POM:SO-SUN	g		sv28i	sv28	
+251	This study			-66.5									Igneous	Lava Flow	35.5838	Basalt	248.3925	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv28j	sv28	
+40.2	This study			-80									Igneous	Lava Flow	35.5838	Basalt	248.3925	FS-FD:SO-POM:SO-SUN	g		sv28k	sv28	
+70	This study			-96									Igneous	Lava Flow	35.5838	Basalt	248.3925	FS-FD:SO-POM:SO-SUN	g		sv28l	sv28	
+81.3	This study			-86									Igneous	Lava Flow	35.5526	Basalt	248.464	FS-FD:SO-POM:SO-SUN	g		sv29a	sv29	
+119.1	This study			-80									Igneous	Lava Flow	35.5526	Basalt	248.464	FS-FD:SO-POM:SO-SUN	g		sv29b	sv29	
+114	This study			-53									Igneous	Lava Flow	35.5526	Basalt	248.464	FS-FD:SO-POM:SO-SUN	g		sv29c	sv29	
+227.6	This study			-64									Igneous	Lava Flow	35.5526	Basalt	248.464	FS-FD:SO-POM:SO-SUN	g		sv29d	sv29	
+67.2	This study			-37									Igneous	Lava Flow	35.5526	Basalt	248.464	FS-FD:SO-POM:SO-SUN	g		sv29e	sv29	
+63.4	This study			-37									Igneous	Lava Flow	35.5526	Basalt	248.464	FS-FD:SO-POM:SO-SUN	g		sv29f	sv29	
+180.6	This study			-34									Igneous	Lava Flow	35.5526	Basalt	248.464	FS-FD:SO-POM:SO-SUN	g		sv29g	sv29	
+250.6	This study			-68									Igneous	Lava Flow	35.5526	Basalt	248.464	FS-FD:SO-POM:SO-SUN	g		sv29h	sv29	
+219.4	This study			-66									Igneous	Lava Flow	35.5526	Basalt	248.464	FS-FD:SO-POM:SO-SUN	g		sv29i	sv29	
+220.2	This study			-49									Igneous	Lava Flow	35.5526	Basalt	248.464	FS-FD:SO-POM:SO-SUN	g		sv29j	sv29	
+197.2	This study			-79									Igneous	Lava Flow	35.5526	Basalt	248.464	FS-FD:SO-POM:SO-SUN	g		sv29k	sv29	
+202.2	This study			-77									Igneous	Lava Flow	35.5526	Basalt	248.464	FS-FD:SO-POM:SO-SUN	g		sv29l	sv29	
+335.9	This study			-70									Igneous	Lava Flow	35.5182	Basalt	248.4563	FS-FD:SO-POM:SO-SUN	g		sv30a	sv30	
+339.1	This study			-72									Igneous	Lava Flow	35.5182	Basalt	248.4563	FS-FD:SO-POM:SO-SUN	g		sv30b	sv30	
+348.4	This study			-67									Igneous	Lava Flow	35.5182	Basalt	248.4563	FS-FD:SO-POM:SO-SUN	g		sv30c	sv30	
+341.7	This study			-78									Igneous	Lava Flow	35.5182	Basalt	248.4563	FS-FD:SO-POM:SO-SUN	g		sv30d	sv30	
+326.8	This study			-61									Igneous	Lava Flow	35.5182	Basalt	248.4563	FS-FD:SO-POM:SO-SUN	g		sv30e	sv30	
+37.4	This study			-60									Igneous	Lava Flow	35.5182	Basalt	248.4563	FS-FD:SO-POM:SO-SUN	g		sv30f	sv30	
+33.4	This study			-56									Igneous	Lava Flow	35.5182	Basalt	248.4563	FS-FD:SO-POM:SO-SUN	g		sv30g	sv30	
+326.2	This study			-73									Igneous	Lava Flow	35.5182	Basalt	248.4563	FS-FD:SO-POM:SO-SUN	g		sv30h	sv30	
+	This study	DE-SPEC	sample direction.		180.5	-40.6	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv30h	sv30	sv30h1
+344	This study			-91									Igneous	Lava Flow	35.5182	Basalt	248.4563	FS-FD:SO-POM:SO-SUN	g		sv30i	sv30	
+	This study		sample direction.		0.5	-53.9	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-SUN:LP-DIR-AF			sv30i	sv30	sv30i2
+332.1	This study			-51									Igneous	Lava Flow	35.5182	Basalt	248.4563	FS-FD:SO-POM:SO-SUN	g		sv30j	sv30	
+179.5	This study			-75									Igneous	Lava Flow	35.3404	Basalt	248.4426	FS-FD:SO-POM:SO-SUN	g		sv31a	sv31	
+	This study	DE-SPEC	sample direction.		5.5	45.3	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv31a	sv31	sv31a1
+225.1	This study			-61.5									Igneous	Lava Flow	35.3404	Basalt	248.4426	FS-FD:SO-POM:SO-SUN	g		sv31b	sv31	
+	This study	DE-SPEC	sample direction.		11.9	45.1	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv31b	sv31	sv31b1
+225.8	This study			-65									Igneous	Lava Flow	35.3404	Basalt	248.4426	FS-FD:SO-POM:SO-SUN	g		sv31c	sv31	
+	This study	DE-SPEC	sample direction.		12.4	43.1	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv31c	sv31	sv31c1
+221.8	This study			-68									Igneous	Lava Flow	35.3404	Basalt	248.4426	FS-FD:SO-POM:SO-SUN	g		sv31d	sv31	
+244	This study			-42.5									Igneous	Lava Flow	35.3404	Basalt	248.4426	FS-FD:SO-POM:SO-SUN	g		sv31e	sv31	
+	This study	DE-SPEC	sample direction.		17.4	48.2	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv31e	sv31	sv31e2
+244	This study			-46.5									Igneous	Lava Flow	35.3404	Basalt	248.4426	FS-FD:SO-POM:SO-SUN	g		sv31f	sv31	
+239.2	This study			-68									Igneous	Lava Flow	35.3404	Basalt	248.4426	FS-FD:SO-POM:SO-SUN	g		sv31g	sv31	
+219	This study			-53.5									Igneous	Lava Flow	35.3404	Basalt	248.4426	FS-FD:SO-POM:SO-SUN	g		sv31h	sv31	
+226.8	This study			-62									Igneous	Lava Flow	35.3404	Basalt	248.4426	FS-FD:SO-POM:SO-SUN	g		sv31i	sv31	
+225	This study			-45.5									Igneous	Lava Flow	35.3404	Basalt	248.4426	FS-FD:SO-POM:SO-SUN	g		sv31j	sv31	
+280.2	This study			-47.5									Igneous	Lava Flow	35.3404	Basalt	248.4426	FS-FD:SO-POM:SO-SUN	g		sv31k	sv31	
+	This study	DE-SPEC	sample direction.		16.6	49.1	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv31k	sv31	sv31k1
+261.1	This study			-42.5									Igneous	Lava Flow	35.3404	Basalt	248.4426	FS-FD:SO-POM:SO-SUN	g		sv31l	sv31	
+97.6	This study			-53									Igneous	Lava Flow	35.3708	Basalt	248.4607	FS-FD:SO-POM:SO-SUN	g		sv32a	sv32	
+	This study	DE-SPEC	sample direction.		348.3	60.8	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv32a	sv32	sv32a1
+96	This study			-62.5									Igneous	Lava Flow	35.3708	Basalt	248.4607	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv32b	sv32	
+	This study	DE-SPEC	sample direction.		336.3	62.5	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv32b	sv32	sv32b1
+55.5	This study			-75									Igneous	Lava Flow	35.3708	Basalt	248.4607	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv32c	sv32	
+	This study	DE-SPEC	sample direction.		339.6	56.4	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv32c	sv32	sv32c1
+145	This study			-21.5									Igneous	Lava Flow	35.3708	Basalt	248.4607	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv32d	sv32	
+	This study	DE-SPEC	sample direction.		346.4	57.1	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv32d	sv32	sv32d1
+88	This study			-73									Igneous	Lava Flow	35.3708	Basalt	248.4607	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv32e	sv32	
+	This study	DE-SPEC	sample direction.		343.7	64.1	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv32e	sv32	sv32e1
+78	This study			-70									Igneous	Lava Flow	35.3708	Basalt	248.4607	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv32f	sv32	
+86.2	This study			-73									Igneous	Lava Flow	35.3708	Basalt	248.4607	FS-FD:SO-POM:SO-SUN	g		sv32g	sv32	
+15.4	This study			-62									Igneous	Lava Flow	35.3708	Basalt	248.4607	FS-FD:SO-POM:SO-SUN	g		sv32h	sv32	
+11.2	This study			-72									Igneous	Lava Flow	35.3708	Basalt	248.4607	FS-FD:SO-POM:SO-SUN	g		sv32i	sv32	
+38	This study			-36									Igneous	Lava Flow	35.3708	Basalt	248.4607	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv32j	sv32	
+64.2	This study			-89.5									Igneous	Lava Flow	35.3508	Basalt	247.5926	FS-FD:SO-POM:SO-SUN	g		sv50a	sv50	
+	This study	DE-SPEC	sample direction.		309.2	6.6	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv50a	sv50	sv50a1
+67.6	This study			-84									Igneous	Lava Flow	35.3508	Basalt	247.5926	FS-FD:SO-POM:SO-SUN	g		sv50b	sv50	
+199	This study			-60.5									Igneous	Lava Flow	35.3508	Basalt	247.5926	FS-FD:SO-POM:SO-SUN	g		sv50c	sv50	
+155.1	This study			-77.5									Igneous	Lava Flow	35.3508	Basalt	247.5926	FS-FD:SO-POM:SO-SUN	g		sv50d	sv50	
+	This study		sample direction.		224.7	33.3	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-SUN:LP-DIR-AF			sv50d	sv50	sv50d3
+121.7	This study			-69.5									Igneous	Lava Flow	35.3508	Basalt	247.5926	FS-FD:SO-POM:SO-SUN	g		sv50e	sv50	
+111.5	This study			-81									Igneous	Lava Flow	35.3508	Basalt	247.5926	FS-FD:SO-POM:SO-SUN	g		sv50f	sv50	
+104.2	This study			-69.5									Igneous	Lava Flow	35.3508	Basalt	247.5926	FS-FD:SO-POM:SO-SUN	g		sv50g	sv50	
+81.3	This study			-74									Igneous	Lava Flow	35.3508	Basalt	247.5926	FS-FD:SO-POM:SO-SUN	g		sv50h	sv50	
+129.3	This study			-68.5									Igneous	Lava Flow	35.3508	Basalt	247.5926	FS-FD:SO-POM:SO-SUN	g		sv50i	sv50	
+130.8	This study			-54									Igneous	Lava Flow	35.3508	Basalt	247.5926	FS-FD:SO-POM:SO-SUN	g		sv50j	sv50	
+	This study	DE-SPEC	sample direction.		181.2	-42.8	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv50j	sv50	sv50j1
+129.2	This study			-64									Igneous	Lava Flow	35.3508	Basalt	247.5926	FS-FD:SO-POM:SO-SUN	g		sv50k	sv50	
+62	This study			-59									Igneous	Lava Flow	35.3508	Basalt	247.5926	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv50l	sv50	
+50.8	This study			-106									Igneous	Lava Flow	35.3108	Basalt	247.626	FS-FD:SO-POM:SO-SUN	g		sv51a	sv51	
+	This study	DE-SPEC	sample direction.		302.1	11.7	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv51a	sv51	sv51a1
+358.4	This study			-72									Igneous	Lava Flow	35.3108	Basalt	247.626	FS-FD:SO-POM:SO-SUN	g		sv51c	sv51	
+301.2	This study			-90									Igneous	Lava Flow	35.3108	Basalt	247.626	FS-FD:SO-POM:SO-SUN	g		sv51d	sv51	
+307.2	This study			-76									Igneous	Lava Flow	35.3108	Basalt	247.626	FS-FD:SO-POM:SO-SUN	g		sv51e	sv51	
+	This study	DE-SPEC	sample direction.		171.3	-38.1	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv51e	sv51	sv51e1
+9.6	This study			-75									Igneous	Lava Flow	35.3108	Basalt	247.626	FS-FD:SO-POM:SO-SUN	g		sv51f	sv51	
+346.1	This study			-66									Igneous	Lava Flow	35.3108	Basalt	247.626	FS-FD:SO-POM:SO-SUN	g		sv51g	sv51	
+39	This study			-69									Igneous	Lava Flow	35.3108	Basalt	247.626	FS-FD:SO-POM:SO-SUN	g		sv51h	sv51	
+39.9	This study			-74.5									Igneous	Lava Flow	35.3108	Basalt	247.626	FS-FD:SO-POM:SO-SUN	g		sv51i	sv51	
+263.7	This study			-49									Igneous	Lava Flow	35.3108	Basalt	247.626	FS-FD:SO-POM:SO-SUN	g		sv51j	sv51	
+	This study	DE-SPEC	sample direction.		187.5	-40.3	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv51j	sv51	sv51j1
+263.9	This study			-42.5									Igneous	Lava Flow	35.3108	Basalt	247.626	FS-FD:SO-POM:SO-SUN	g		sv51k	sv51	
+	This study	DE-SPEC	sample direction.		188.3	-37.1	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv51k	sv51	sv51k2
+294	This study			-80									Igneous	Lava Flow	35.3108	Basalt	247.626	FS-FD:SO-POM:SO-SUN	g		sv51l	sv51	
+103	This study			-4.5									Igneous	Lava Flow	35.3108	Basalt	247.626	FS-FD:SO-POM:SO-SUN	g		sv51m	sv51	
+334.5	This study			-45									Igneous	Lava Flow	35.2211	Basalt	247.7281	FS-FD:SO-POM:SO-SUN	g		sv52a	sv52	
+	This study	DE-SPEC	sample direction.		174	-56.1	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv52a	sv52	sv52a1
+335.9	This study			-47.5									Igneous	Lava Flow	35.2211	Basalt	247.7281	FS-FD:SO-POM:SO-SUN	g		sv52b	sv52	
+6	This study			-80									Igneous	Lava Flow	35.2211	Basalt	247.7281	FS-FD:SO-POM:SO-SUN	g		sv52c	sv52	
+	This study	DE-SPEC	sample direction.		187.2	-56.2	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv52c	sv52	sv52c1
+13.4	This study			-76.5									Igneous	Lava Flow	35.2211	Basalt	247.7281	FS-FD:SO-POM:SO-SUN	g		sv52d	sv52	
+310.2	This study			-54									Igneous	Lava Flow	35.2211	Basalt	247.7281	FS-FD:SO-POM:SO-SUN	g		sv52e	sv52	
+325	This study			-46									Igneous	Lava Flow	35.2211	Basalt	247.7281	FS-FD:SO-POM:SO-SUN	g		sv52f	sv52	
+7.5	This study			-84									Igneous	Lava Flow	35.2211	Basalt	247.7281	FS-FD:SO-POM:SO-SUN	g		sv52g	sv52	
+	This study	DE-SPEC	sample direction.		192.6	-51.1	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv52g	sv52	sv52g1
+9.2	This study			-83									Igneous	Lava Flow	35.2211	Basalt	247.7281	FS-FD:SO-POM:SO-SUN	g		sv52h	sv52	
+357.6	This study			-78.5									Igneous	Lava Flow	35.2211	Basalt	247.7281	FS-FD:SO-POM:SO-SUN	g		sv52i	sv52	
+358.8	This study			-70									Igneous	Lava Flow	35.2211	Basalt	247.7281	FS-FD:SO-POM:SO-SUN	g		sv52j	sv52	
+	This study	DE-SPEC	sample direction.		175.9	-55	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv52j	sv52	sv52j1
+355.3	This study			-65									Igneous	Lava Flow	35.2211	Basalt	247.7281	FS-FD:SO-POM:SO-SUN	g		sv52k	sv52	
+6.3	This study			-70									Igneous	Lava Flow	35.2211	Basalt	247.7281	FS-FD:SO-POM:SO-SUN	g		sv52l	sv52	
+197.9	This study			-63									Igneous	Lava Flow	35.2221	Basalt	247.7461	FS-FD:SO-POM:SO-SUN	g		sv53a	sv53	
+203.1	This study			-61									Igneous	Lava Flow	35.2221	Basalt	247.7461	FS-FD:SO-POM:SO-SUN	g		sv53b	sv53	
+	This study	DE-SPEC	sample direction.		171.4	29.9	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv53b	sv53	sv53b1
+161.1	This study			-41.5									Igneous	Lava Flow	35.2221	Basalt	247.7461	FS-FD:SO-POM:SO-SUN	g		sv53c	sv53	
+176.5	This study			-42.5									Igneous	Lava Flow	35.2221	Basalt	247.7461	FS-FD:SO-POM:SO-SUN	g		sv53d	sv53	
+101.9	This study			-50.5									Igneous	Lava Flow	35.2221	Basalt	247.7461	FS-FD:SO-POM:SO-SUN	g		sv53e	sv53	
+198.1	This study			-58									Igneous	Lava Flow	35.2221	Basalt	247.7461	FS-FD:SO-POM:SO-SUN	g		sv53f	sv53	
+202.2	This study			-59									Igneous	Lava Flow	35.2221	Basalt	247.7461	FS-FD:SO-POM:SO-SUN	g		sv53g	sv53	
+186.1	This study			-38.5									Igneous	Lava Flow	35.2221	Basalt	247.7461	FS-FD:SO-POM:SO-SUN	g		sv53h	sv53	
+190.4	This study			-41									Igneous	Lava Flow	35.2221	Basalt	247.7461	FS-FD:SO-POM:SO-SUN	g		sv53i	sv53	
+	This study	DE-SPEC	sample direction.		179.1	-49.1	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv53i	sv53	sv53i1
+171.8	This study			-66									Igneous	Lava Flow	35.2221	Basalt	247.7461	FS-FD:SO-POM:SO-SUN	g		sv53j	sv53	
+	This study	DE-SPEC	sample direction.		186.3	-52.8	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv53j	sv53	sv53j1
+179.3	This study			-55									Igneous	Lava Flow	35.2221	Basalt	247.7461	FS-FD:SO-POM:SO-SUN	g		sv53k	sv53	
+79.1	This study			-23.5									Igneous	Lava Flow	35.3002	Basalt	247.7293	FS-FD:SO-POM:SO-SUN	g		sv54a	sv54	
+70.3	This study			-17									Igneous	Lava Flow	35.3002	Basalt	247.7293	FS-FD:SO-POM:SO-SUN	g		sv54b	sv54	
+32.7	This study			-53									Igneous	Lava Flow	35.3002	Basalt	247.7293	FS-FD:SO-POM:SO-SUN	g		sv54c	sv54	
+	This study	DE-SPEC	sample direction.		175.1	-45.8	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv54c	sv54	sv54c1
+31.1	This study			-42.5									Igneous	Lava Flow	35.3002	Basalt	247.7293	FS-FD:SO-POM:SO-SUN	g		sv54d	sv54	
+	This study	DE-SPEC	sample direction.		175.4	-41	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv54d	sv54	sv54d1
+25.7	This study			-42.5									Igneous	Lava Flow	35.3002	Basalt	247.7293	FS-FD:SO-POM:SO-SUN	g		sv54e	sv54	
+359.4	This study			-33.5									Igneous	Lava Flow	35.3002	Basalt	247.7293	FS-FD:SO-POM:SO-SUN	g		sv54f	sv54	
+44.9	This study			-35									Igneous	Lava Flow	35.3002	Basalt	247.7293	FS-FD:SO-POM:SO-SUN	g		sv54g	sv54	
+24	This study			-31									Igneous	Lava Flow	35.3002	Basalt	247.7293	FS-FD:SO-POM:SO-SUN	g		sv54h	sv54	
+	This study	DE-SPEC	sample direction.		167.9	-56.4	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv54h	sv54	sv54h1
+65.6	This study			-41									Igneous	Lava Flow	35.3002	Basalt	247.7293	FS-FD:SO-POM:SO-SUN	g		sv54i	sv54	
+	This study	DE-SPEC	sample direction.		188.5	-28	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv54i	sv54	sv54i1
+57.2	This study			-41									Igneous	Lava Flow	35.3002	Basalt	247.7293	FS-FD:SO-POM:SO-SUN	g		sv54j	sv54	
+26.6	This study			-17									Igneous	Lava Flow	35.3002	Basalt	247.7293	FS-FD:SO-POM:SO-SUN	g		sv54k	sv54	
+	This study	DE-SPEC	sample direction.		160.1	-60.4	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv54k	sv54	sv54k1
+264.1	This study			-50									Igneous	Lava Flow	35.3195	Basalt	247.8202	FS-FD:SO-POM:SO-SUN	g		sv55a	sv55	
+	This study	DE-SPEC	sample direction.		181.7	-50.5	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv55a	sv55	sv55a1
+262.4	This study			-44									Igneous	Lava Flow	35.3195	Basalt	247.8202	FS-FD:SO-POM:SO-SUN	g		sv55b	sv55	
+229.8	This study			-65									Igneous	Lava Flow	35.3195	Basalt	247.8202	FS-FD:SO-POM:SO-SUN	g		sv55c	sv55	
+230.2	This study			-59.5									Igneous	Lava Flow	35.3195	Basalt	247.8202	FS-FD:SO-POM:SO-SUN	g		sv55d	sv55	
+	This study	DE-SPEC	sample direction.		180.3	-43.1	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv55d	sv55	sv55d2
+235.5	This study			-62									Igneous	Lava Flow	35.3195	Basalt	247.8202	FS-FD:SO-POM:SO-SUN	g		sv55e	sv55	
+268.6	This study			-48.5									Igneous	Lava Flow	35.3195	Basalt	247.8202	FS-FD:SO-POM:SO-SUN	g		sv55f	sv55	
+271.5	This study			-45									Igneous	Lava Flow	35.3195	Basalt	247.8202	FS-FD:SO-POM:SO-SUN	g		sv55g	sv55	
+267.4	This study			-85.5									Igneous	Lava Flow	35.3195	Basalt	247.8202	FS-FD:SO-POM:SO-SUN	g		sv55h	sv55	
+	This study	DE-SPEC	sample direction.		179.4	-42.1	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv55h	sv55	sv55h1
+273.4	This study			-88.5									Igneous	Lava Flow	35.3195	Basalt	247.8202	FS-FD:SO-POM:SO-SUN	g		sv55i	sv55	
+266.8	This study			-52.5									Igneous	Lava Flow	35.3195	Basalt	247.8202	FS-FD:SO-POM:SO-SUN	g		sv55j	sv55	
+	This study	DE-SPEC	sample direction.		183.7	-44.3	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv55j	sv55	sv55j1
+272.1	This study			-59									Igneous	Lava Flow	35.3195	Basalt	247.8202	FS-FD:SO-POM:SO-SUN	g		sv55k	sv55	
+38.4	This study			-27									Igneous	Lava Flow	35.3417	Basalt	247.8424	FS-FD:SO-POM:SO-SUN	g		sv56a	sv56	
+	This study	DE-SPEC	sample direction.		174.9	-59.5	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv56a	sv56	sv56a2
+9.9	This study			-51									Igneous	Lava Flow	35.3417	Basalt	247.8424	FS-FD:SO-POM:SO-SUN	g		sv56b	sv56	
+20.4	This study			-43.5									Igneous	Lava Flow	35.3417	Basalt	247.8424	FS-FD:SO-POM:SO-SUN	g		sv56c	sv56	
+	This study	DE-SPEC	sample direction.		166.5	-52.1	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv56c	sv56	sv56c1
+16.7	This study			-65									Igneous	Lava Flow	35.3417	Basalt	247.8424	FS-FD:SO-POM:SO-SUN	g		sv56d	sv56	
+	This study	DE-SPEC	sample direction.		167.2	-51.4	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv56d	sv56	sv56d2
+290.4	This study			-82									Igneous	Lava Flow	35.3417	Basalt	247.8424	FS-FD:SO-POM:SO-SUN	g		sv56e	sv56	
+	This study		sample direction.		193.1	35.2	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-SUN:LP-DIR-AF			sv56e	sv56	sv56e1
+294.2	This study			-74									Igneous	Lava Flow	35.3417	Basalt	247.8424	FS-FD:SO-POM:SO-SUN	g		sv56f	sv56	
+268.5	This study			-78									Igneous	Lava Flow	35.3417	Basalt	247.8424	FS-FD:SO-POM:SO-SUN	g		sv56g	sv56	
+281.6	This study			-74.5									Igneous	Lava Flow	35.3417	Basalt	247.8424	FS-FD:SO-POM:SO-SUN	g		sv56h	sv56	
+	This study	DE-SPEC	sample direction.		352.7	-26.4	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv56h	sv56	sv56h1
+278.4	This study			-69.5									Igneous	Lava Flow	35.3417	Basalt	247.8424	FS-FD:SO-POM:SO-SUN	g		sv56i	sv56	
+274.6	This study			-66.5									Igneous	Lava Flow	35.3417	Basalt	247.8424	FS-FD:SO-POM:SO-SUN	g		sv56j	sv56	
+274.8	This study			-69.5									Igneous	Lava Flow	35.3417	Basalt	247.8424	FS-FD:SO-POM:SO-SUN	g		sv56k	sv56	
+283.9	This study			-27									Igneous	Lava Flow	35.3417	Basalt	247.8424	FS-FD:SO-POM:SO-SUN	g		sv56l	sv56	
+276.6	This study			-57									Igneous	Lava Flow	35.3417	Basalt	247.8424	FS-FD:SO-POM:SO-SUN	g		sv56n	sv56	
+222.7	This study			-82.5									Igneous	Lava Flow	35.26	Basalt	247.7564	FS-FD:SO-POM:SO-SUN	g		sv57a	sv57	
+	This study	DE-SPEC	sample direction.		198	-53.8	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv57a	sv57	sv57a1
+231	This study			-70.5									Igneous	Lava Flow	35.26	Basalt	247.7564	FS-FD:SO-POM:SO-SUN	g		sv57b	sv57	
+269.9	This study			-63									Igneous	Lava Flow	35.26	Basalt	247.7564	FS-FD:SO-POM:SO-SUN	g		sv57c	sv57	
+	This study	DE-SPEC	sample direction.		194.9	-54.2	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv57c	sv57	sv57c1
+283.2	This study			-69.5									Igneous	Lava Flow	35.26	Basalt	247.7564	FS-FD:SO-POM:SO-SUN	g		sv57d	sv57	
+	This study	DE-SPEC	sample direction.		187.6	-57	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv57d	sv57	sv57d1
+310.5	This study			-47									Igneous	Lava Flow	35.26	Basalt	247.7564	FS-FD:SO-POM:SO-SUN	g		sv57e	sv57	
+321	This study			-46.5									Igneous	Lava Flow	35.26	Basalt	247.7564	FS-FD:SO-POM:SO-SUN	g		sv57f	sv57	
+308.1	This study			-92									Igneous	Lava Flow	35.26	Basalt	247.7564	FS-FD:SO-POM:SO-SUN	g		sv57g	sv57	
+252.6	This study			-49									Igneous	Lava Flow	35.26	Basalt	247.7564	FS-FD:SO-POM:SO-SUN	g		sv57h	sv57	
+222.9	This study			-75									Igneous	Lava Flow	35.26	Basalt	247.7564	FS-FD:SO-POM:SO-SUN	g		sv57i	sv57	
+219.7	This study			-67									Igneous	Lava Flow	35.26	Basalt	247.7564	FS-FD:SO-POM:SO-SUN	g		sv57j	sv57	
+206	This study			-52									Igneous	Lava Flow	35.26	Basalt	247.7564	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv57k	sv57	
+	This study	DE-SPEC	sample direction.		203	-14.6	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv57k	sv57	sv57k1
+253	This study			-37									Igneous	Lava Flow	35.26	Basalt	247.7564	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv57l	sv57	
+	This study	DE-SPEC	sample direction.		210.3	-49.6	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv57l	sv57	sv57l2
+238.2	This study			-81.5									Igneous	Lava Flow	35.2603	Basalt	247.7564	FS-FD:SO-POM:SO-SUN	g		sv58a	sv58	
+	This study	DE-SPEC	sample direction.		181.6	-63.7	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv58a	sv58	sv58a1
+229.1	This study			-80									Igneous	Lava Flow	35.2603	Basalt	247.7564	FS-FD:SO-POM:SO-SUN	g		sv58b	sv58	
+226.5	This study			-86									Igneous	Lava Flow	35.2603	Basalt	247.7564	FS-FD:SO-POM:SO-SUN	g		sv58c	sv58	
+225.8	This study			-71									Igneous	Lava Flow	35.2603	Basalt	247.7564	FS-FD:SO-POM:SO-SUN	g		sv58d	sv58	
+	This study	DE-SPEC	sample direction.		176.7	-60	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv58d	sv58	sv58d1
+253.9	This study			-80.5									Igneous	Lava Flow	35.2603	Basalt	247.7564	FS-FD:SO-POM:SO-SUN	g		sv58e	sv58	
+244.6	This study			-80									Igneous	Lava Flow	35.2603	Basalt	247.7564	FS-FD:SO-POM:SO-SUN	g		sv58f	sv58	
+221.9	This study			-69.5									Igneous	Lava Flow	35.2603	Basalt	247.7564	FS-FD:SO-POM:SO-SUN	g		sv58g	sv58	
+	This study	DE-SPEC	sample direction.		182.5	-60	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv58g	sv58	sv58g1
+221.7	This study			-72									Igneous	Lava Flow	35.2603	Basalt	247.7564	FS-FD:SO-POM:SO-SUN	g		sv58h	sv58	
+254.1	This study			-106.5									Igneous	Lava Flow	35.2603	Basalt	247.7564	FS-FD:SO-POM:SO-SUN	g		sv58i	sv58	
+254	This study			-96.5									Igneous	Lava Flow	35.2603	Basalt	247.7564	FS-FD:SO-POM:SO-SUN	g		sv58j	sv58	
+243.9	This study			-83									Igneous	Lava Flow	35.2603	Basalt	247.7564	FS-FD:SO-POM:SO-SUN	g		sv58k	sv58	
+	This study	DE-SPEC	sample direction.		188	-65.2	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv58k	sv58	sv58k1
+242.8	This study			-83.5									Igneous	Lava Flow	35.2603	Basalt	247.7564	FS-FD:SO-POM:SO-SUN	g		sv58l	sv58	
+37.1	This study			-57									Igneous	Lava Flow	35.2542	Basalt	247.9934	FS-FD:SO-POM:SO-SUN	g		sv59a	sv59	
+	This study	DE-SPEC	sample direction.		181	-51.7	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv59a	sv59	sv59a1
+46.9	This study			-52									Igneous	Lava Flow	35.2542	Basalt	247.9934	FS-FD:SO-POM:SO-SUN	g		sv59b	sv59	
+38.6	This study			-38									Igneous	Lava Flow	35.2542	Basalt	247.9934	FS-FD:SO-POM:SO-SUN	g		sv59c	sv59	
+52.4	This study			-36.5									Igneous	Lava Flow	35.2542	Basalt	247.9934	FS-FD:SO-POM:SO-SUN	g		sv59d	sv59	
+19.9	This study			-57									Igneous	Lava Flow	35.2542	Basalt	247.9934	FS-FD:SO-POM:SO-SUN	g		sv59e	sv59	
+33.2	This study			-50									Igneous	Lava Flow	35.2542	Basalt	247.9934	FS-FD:SO-POM:SO-SUN	g		sv59f	sv59	
+	This study	DE-SPEC	sample direction.		179.6	-53.1	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv59f	sv59	sv59f1
+24.3	This study			-63									Igneous	Lava Flow	35.2542	Basalt	247.9934	FS-FD:SO-POM:SO-SUN	g		sv59g	sv59	
+	This study	DE-SPEC	sample direction.		178.4	-52	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv59g	sv59	sv59g1
+35.3	This study			-63.5									Igneous	Lava Flow	35.2542	Basalt	247.9934	FS-FD:SO-POM:SO-SUN	g		sv59h	sv59	
+46.6	This study			-73.5									Igneous	Lava Flow	35.2542	Basalt	247.9934	FS-FD:SO-POM:SO-SUN	g		sv59i	sv59	
+51.8	This study			-62									Igneous	Lava Flow	35.2542	Basalt	247.9934	FS-FD:SO-POM:SO-SUN	g		sv59j	sv59	
+	This study	DE-SPEC	sample direction.		176.4	-48.3	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv59j	sv59	sv59j1
+325.7	This study			-81									Igneous	Lava Flow	35.2542	Basalt	247.9934	FS-FD:SO-POM:SO-SUN	g		sv59k	sv59	
+322	This study			-57									Igneous	Lava Flow	35.2542	Basalt	247.9934	FS-FD:SO-POM:SO-SUN	g		sv59l	sv59	
+18.4	This study			-19									Igneous	Lava Flow	35.2535	Basalt	248.0864	FS-FD:SO-POM:SO-SUN	g		sv60a	sv60	
+	This study	DE-SPEC	sample direction.		219.1	-21	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv60a	sv60	sv60a1
+14.8	This study			-19									Igneous	Lava Flow	35.2535	Basalt	248.0864	FS-FD:SO-POM:SO-SUN	g		sv60b	sv60	
+335.7	This study			-28									Igneous	Lava Flow	35.2535	Basalt	248.0864	FS-FD:SO-POM:SO-SUN	g		sv60c	sv60	
+	This study	DE-SPEC	sample direction.		179.5	-28.9	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv60c	sv60	sv60c1
+351.9	This study			-20									Igneous	Lava Flow	35.2535	Basalt	248.0864	FS-FD:SO-POM:SO-SUN	g		sv60d	sv60	
+8.4	This study			-65									Igneous	Lava Flow	35.2535	Basalt	248.0864	FS-FD:SO-POM:SO-SUN	g		sv60e	sv60	
+42.6	This study			-46									Igneous	Lava Flow	35.2535	Basalt	248.0864	FS-FD:SO-POM:SO-SUN	g		sv60f	sv60	
+45.1	This study			-43									Igneous	Lava Flow	35.2535	Basalt	248.0864	FS-FD:SO-POM:SO-SUN	g		sv60g	sv60	
+2.5	This study			-58									Igneous	Lava Flow	35.2535	Basalt	248.0864	FS-FD:SO-POM:SO-SUN	g		sv60h	sv60	
+345.8	This study			-36									Igneous	Lava Flow	35.2535	Basalt	248.0864	FS-FD:SO-POM:SO-SUN	g		sv60i	sv60	
+341.8	This study			-28									Igneous	Lava Flow	35.2535	Basalt	248.0864	FS-FD:SO-POM:SO-SUN	g		sv60j	sv60	
+14.7	This study			-23									Igneous	Lava Flow	35.2535	Basalt	248.0864	FS-FD:SO-POM:SO-SUN	g		sv60k	sv60	
+17.3	This study			-51									Igneous	Lava Flow	35.2031	Basalt	248.2362	FS-FD:SO-POM:SO-SUN	g		sv61a	sv61	
+	This study	DE-SPEC	sample direction.		163.3	61	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv61a	sv61	sv61a1
+21.3	This study			-53									Igneous	Lava Flow	35.2031	Basalt	248.2362	FS-FD:SO-POM:SO-SUN	g		sv61b	sv61	
+4.4	This study			-51									Igneous	Lava Flow	35.2031	Basalt	248.2362	FS-FD:SO-POM:SO-SUN	g		sv61c	sv61	
+	This study		sample direction.		264.2	2.6	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-SUN:LP-DIR-AF			sv61c	sv61	sv61c1
+4.5	This study			-79									Igneous	Lava Flow	35.2031	Basalt	248.2362	FS-FD:SO-POM:SO-SUN	g		sv61d	sv61	
+12	This study			-62.5									Igneous	Lava Flow	35.2031	Basalt	248.2362	FS-FD:SO-POM:SO-SUN	g		sv61e	sv61	
+16.1	This study			-60									Igneous	Lava Flow	35.2031	Basalt	248.2362	FS-FD:SO-POM:SO-SUN	g		sv61f	sv61	
+17.2	This study			-48.5									Igneous	Lava Flow	35.2031	Basalt	248.2362	FS-FD:SO-POM:SO-SUN	g		sv61g	sv61	
+	This study	DE-SPEC	sample direction.		348.2	63.4	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv61g	sv61	sv61g1
+28.7	This study			-65									Igneous	Lava Flow	35.2031	Basalt	248.2362	FS-FD:SO-POM:SO-SUN	g		sv61h	sv61	
+64.9	This study			-56									Igneous	Lava Flow	35.2031	Basalt	248.2362	FS-FD:SO-POM:SO-SUN	g		sv61i	sv61	
+	This study	DE-SPEC	sample direction.		356.8	54.4	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv61i	sv61	sv61i1
+46.9	This study			-65									Igneous	Lava Flow	35.2078	Basalt	248.2294	FS-FD:SO-POM:SO-SUN	g		sv62a	sv62	
+49	This study			-51.5									Igneous	Lava Flow	35.2078	Basalt	248.2294	FS-FD:SO-POM:SO-SUN	g		sv62b	sv62	
+	This study		sample direction.		68.8	19.6	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-SUN:LP-DIR-AF			sv62b	sv62	sv62b1
+42.4	This study			-61.5									Igneous	Lava Flow	35.2078	Basalt	248.2294	FS-FD:SO-POM:SO-SUN	g		sv62c	sv62	
+33.3	This study			-56									Igneous	Lava Flow	35.2078	Basalt	248.2294	FS-FD:SO-POM:SO-SUN	g		sv62d	sv62	
+	This study		sample direction.		345.3	-35.3	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-SUN:LP-DIR-AF			sv62d	sv62	sv62d1
+64.9	This study			-94									Igneous	Lava Flow	35.2078	Basalt	248.2294	FS-FD:SO-POM:SO-SUN	g		sv62e	sv62	
+105.6	This study			-52.5									Igneous	Lava Flow	35.2078	Basalt	248.2294	FS-FD:SO-POM:SO-SUN	g		sv62f	sv62	
+46.4	This study			-92.5									Igneous	Lava Flow	35.2078	Basalt	248.2294	FS-FD:SO-POM:SO-SUN	g		sv62g	sv62	
+	This study		sample direction.		127.1	35.1	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-SUN:LP-DIR-AF			sv62g	sv62	sv62g1
+48.7	This study			-84									Igneous	Lava Flow	35.2078	Basalt	248.2294	FS-FD:SO-POM:SO-SUN	g		sv62h	sv62	
+61.1	This study			-73.5									Igneous	Lava Flow	35.2078	Basalt	248.2294	FS-FD:SO-POM:SO-SUN	g		sv62i	sv62	
+20.4	This study			-45.5									Igneous	Lava Flow	35.2078	Basalt	248.2294	FS-FD:SO-POM:SO-SUN	g		sv62j	sv62	
+62.1	This study			-64									Igneous	Lava Flow	35.2078	Basalt	248.2294	FS-FD:SO-POM:SO-SUN	g		sv62k	sv62	
+330.7	This study			-36									Igneous	Lava Flow	35.2582	Basalt	247.9165	FS-FD:SO-POM:SO-SUN	g		sv63a	sv63	
+	This study	DE-SPEC	sample direction.		354.9	43.6	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv63a	sv63	sv63a1
+304	This study			-31.5									Igneous	Lava Flow	35.2582	Basalt	247.9165	FS-FD:SO-POM:SO-SUN	g		sv63b	sv63	
+34.3	This study			-38									Igneous	Lava Flow	35.2582	Basalt	247.9165	FS-FD:SO-POM:SO-SUN	g		sv63c	sv63	
+337.8	This study			-28									Igneous	Lava Flow	35.2582	Basalt	247.9165	FS-FD:SO-POM:SO-SUN	g		sv63d	sv63	
+339.1	This study			-39									Igneous	Lava Flow	35.2582	Basalt	247.9165	FS-FD:SO-POM:SO-SUN	g		sv63e	sv63	
+341.3	This study			-56.5									Igneous	Lava Flow	35.2582	Basalt	247.9165	FS-FD:SO-POM:SO-SUN	g		sv63f	sv63	
+	This study	DE-SPEC	sample direction.		353	48	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv63f	sv63	sv63f1
+11.4	This study			-50									Igneous	Lava Flow	35.2582	Basalt	247.9165	FS-FD:SO-POM:SO-SUN	g		sv63g	sv63	
+12.7	This study			-80									Igneous	Lava Flow	35.2582	Basalt	247.9165	FS-FD:SO-POM:SO-SUN	g		sv63h	sv63	
+	This study	DE-SPEC	sample direction.		351.9	46.4	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv63h	sv63	sv63h1
+342.9	This study			-67.5									Igneous	Lava Flow	35.2582	Basalt	247.9165	FS-FD:SO-POM:SO-SUN	g		sv63i	sv63	
+2.2	This study			-71									Igneous	Lava Flow	35.2582	Basalt	247.9165	FS-FD:SO-POM:SO-SUN	g		sv63j	sv63	
+	This study	DE-SPEC	sample direction.		346.5	42.3	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv63j	sv63	sv63j1
+102.7	This study			-60.5									Igneous	Lava Flow	35.2569	Basalt	248.0685	FS-FD:SO-POM:SO-SUN	g		sv64a	sv64	
+178.6	This study			-59									Igneous	Lava Flow	35.2569	Basalt	248.0685	FS-FD:SO-POM:SO-SUN	g		sv64b	sv64	
+	This study	DE-SPEC	sample direction.		173.1	-51.1	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv64b	sv64	sv64b1
+179.5	This study			-51									Igneous	Lava Flow	35.2569	Basalt	248.0685	FS-FD:SO-POM:SO-SUN	g		sv64c	sv64	
+	This study	DE-SPEC	sample direction.		185.3	-45.3	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv64c	sv64	sv64c2
+171.9	This study			-52.5									Igneous	Lava Flow	35.2569	Basalt	248.0685	FS-FD:SO-POM:SO-SUN	g		sv64d	sv64	
+204.7	This study			-63									Igneous	Lava Flow	35.2569	Basalt	248.0685	FS-FD:SO-POM:SO-SUN	g		sv64e	sv64	
+	This study	DE-SPEC	sample direction.		162.4	-53	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv64e	sv64	sv64e1
+202.4	This study			-67									Igneous	Lava Flow	35.2569	Basalt	248.0685	FS-FD:SO-POM:SO-SUN	g		sv64f	sv64	
+208.8	This study			-61									Igneous	Lava Flow	35.2569	Basalt	248.0685	FS-FD:SO-POM:SO-SUN	g		sv64g	sv64	
+	This study	DE-SPEC	sample direction.		167.9	-53.7	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv64g	sv64	sv64g1
+200.4	This study			-46.5									Igneous	Lava Flow	35.2569	Basalt	248.0685	FS-FD:SO-POM:SO-SUN	g		sv64h	sv64	
+	This study	DE-SPEC	sample direction.		165.5	-52.9	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv64h	sv64	sv64h1
+198.5	This study			-50.5									Igneous	Lava Flow	35.2569	Basalt	248.0685	FS-FD:SO-POM:SO-SUN	g		sv64i	sv64	
+	This study	DE-SPEC	sample direction.		165.9	-52.1	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-SUN:LP-DIR-AF			sv64i	sv64	sv64i1
+196.5	This study			-58.5									Igneous	Lava Flow	35.2569	Basalt	248.0685	FS-FD:SO-POM:SO-SUN	g		sv64j	sv64	
+186.3	This study			-31									Igneous	Lava Flow	35.2569	Basalt	248.0685	FS-FD:SO-POM:SO-SUN	g		sv64k	sv64	
+327	This study			-49									Igneous	Lava Flow	35.4088	Basalt	248.5854	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv65a	sv65	
+	This study	DE-SPEC	sample direction.		32.7	65	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv65a	sv65	sv65a1
+335	This study			-51									Igneous	Lava Flow	35.4088	Basalt	248.5854	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv65b	sv65	
+343	This study			-68									Igneous	Lava Flow	35.4088	Basalt	248.5854	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv65c	sv65	
+	This study	DE-SPEC	sample direction.		33.1	49.7	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv65c	sv65	sv65c1
+345	This study			-57									Igneous	Lava Flow	35.4088	Basalt	248.5854	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv65d	sv65	
+	This study	DE-SPEC	sample direction.		25.9	45	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv65d	sv65	sv65d1
+357	This study			-54									Igneous	Lava Flow	35.4088	Basalt	248.5854	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv65e	sv65	
+	This study	DE-SPEC	sample direction.		29.9	58.3	1	1	0			0						DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:LP-DIR-AF			sv65e	sv65	sv65e1
+348.2	This study			-41									Igneous	Lava Flow	35.4088	Basalt	248.5854	FS-FD:SO-POM:SO-SUN	g		sv65f	sv65	
+1.9	This study			-41.5									Igneous	Lava Flow	35.4088	Basalt	248.5854	FS-FD:SO-POM:SO-SUN	g		sv65g	sv65	
+	This study		sample direction.		289.8	10.4	1	0	1			0						DA-DIR-GEO:DE-BFP:SO-SUN:LP-DIR-AF			sv65g	sv65	sv65g1
+27	This study			-62.5									Igneous	Lava Flow	35.4088	Basalt	248.5854	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv65h	sv65	
+18	This study			-48.5									Igneous	Lava Flow	35.4088	Basalt	248.5854	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv65i	sv65	
+23.4	This study			-49									Igneous	Lava Flow	35.4088	Basalt	248.5854	FS-FD:SO-POM:SO-SUN	g		sv65j	sv65	
+20	This study			-35									Igneous	Lava Flow	35.4088	Basalt	248.5854	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv65k	sv65	
+44	This study			-50									Igneous	Lava Flow	35.4088	Basalt	248.5854	FS-FD:SO-CMD-NORTH:SO-POM:SO-MAG	g		sv65l	sv65	

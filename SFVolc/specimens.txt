@@ -1,0 +1,308 @@
+tab 	specimens
+citations	description	dir_dec	dir_inc	dir_mad_free	dir_n_measurements	dir_nrm_origin	dir_polarity	dir_tilt_correction	experiments	geologic_classes	geologic_types	int_corr	lithologies	meas_step_max	meas_step_min	meas_step_unit	method_codes	result_quality	sample	specimen
+This study	Recalculated from original measurements; supercedes published results.	348.4	-34.7	5.1	12			0	LP-DIR-AF:sv01a1	Igneous	Lava Flow		Basalt	0.14	0.005	T	DA-DIR-GEO:DE-BFP:SO-CMD-NORTH:DE-BFP:LP-DIR-AF		sv01a	sv01a1
+This study	Recalculated from original measurements; supercedes published results.	122.7	25.5	3.8	15			0	LP-DIR-AF:sv01b1	Igneous	Lava Flow		Basalt	0.18	0	T	DA-DIR-GEO:DE-BFP:SO-CMD-NORTH:DE-BFP:LP-DIR-AF		sv01b	sv01b1
+This study	Recalculated from original measurements; supercedes published results.	162.4	36.6	3	13			0	LP-DIR-AF:sv01g1	Igneous	Lava Flow		Basalt	0.18	0.01	T	DA-DIR-GEO:DE-BFP:SO-CMD-NORTH:DE-BFP:LP-DIR-AF		sv01g	sv01g1
+This study										Igneous	Lava Flow		Basalt						sv01g	sv01g2
+This study	Recalculated from original measurements; supercedes published results.	190.4	34.6	5	13			0	LP-DIR-AF:sv01h1	Igneous	Lava Flow		Basalt	0.18	0.01	T	DA-DIR-GEO:DE-BFP:SO-CMD-NORTH:DE-BFP:LP-DIR-AF		sv01h	sv01h1
+This study	Recalculated from original measurements; supercedes published results.	133.4	21.9	5.4	8			0	LP-DIR-AF:sv01j1	Igneous	Lava Flow		Basalt	0.18	0.06	T	DA-DIR-GEO:DE-BFP:SO-CMD-NORTH:DE-BFP:LP-DIR-AF		sv01j	sv01j1
+This study										Igneous	Lava Flow		Basalt						sv01j	sv01j2
+This study	Recalculated from original measurements; supercedes published results.	330.3	30.4	2.5	6			0	LP-DIR-AF:sv02a1	Igneous	Lava Flow		Basalt	0.18	0.08	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv02a	sv02a1
+This study	Recalculated from original measurements; supercedes published results.	225.7	37	3.7	14			0	LP-DIR-AF:sv02b1	Igneous	Lava Flow		Basalt	0.18	0	T	DA-DIR-GEO:DE-BFP:SO-SUN:DE-BFP:LP-DIR-AF		sv02b	sv02b1
+This study										Igneous	Lava Flow		Basalt						sv02b	sv02b2
+This study	Recalculated from original measurements; supercedes published results.	103.1	32.3	3.8	11			0	LP-DIR-AF:sv02c1	Igneous	Lava Flow		Basalt	0.18	0.03	T	DA-DIR-GEO:DE-BFP:SO-SUN:DE-BFP:LP-DIR-AF		sv02c	sv02c1
+This study	Recalculated from original measurements; supercedes published results.	338.6	44.5	1.3	11			0	LP-DIR-AF:sv02d1	Igneous	Lava Flow		Basalt	0.18	0.03	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv02d	sv02d1
+This study	Recalculated from original measurements; supercedes published results.	340.6	42.4	0.9	10			0	LP-DIR-AF:sv02e1	Igneous	Lava Flow		Basalt	0.18	0.04	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv02e	sv02e1
+This study	Recalculated from original measurements; supercedes published results.	337.7	40.3	2.6	12			0	LP-DIR-AF:sv02k1	Igneous	Lava Flow		Basalt	0.18	0.02	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv02k	sv02k1
+This study										Igneous	Lava Flow		Basalt						sv02k	sv02k3
+This study	Recalculated from original measurements; supercedes published results.	344.6	52.1	1.3	4			0	LP-DIR-AF:sv03a1	Igneous	Lava Flow		Basalt	0.15	0.08	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv03a	sv03a1
+This study	Recalculated from original measurements; supercedes published results.	39.5	-24.5	3.8	6			0	LP-DIR-AF:sv03b1	Igneous	Lava Flow		Basalt	0.18	0.08	T	DA-DIR-GEO:DE-BFP:SO-CMD-NORTH:DE-BFP:LP-DIR-AF		sv03b	sv03b1
+This study										Igneous	Lava Flow		Basalt						sv03b	sv03b2
+This study	Recalculated from original measurements; supercedes published results.	3.9	-33.5	4.6	11			0	LP-DIR-AF:sv03d1	Igneous	Lava Flow		Basalt	0.18	0	T	DA-DIR-GEO:DE-BFP:SO-CMD-NORTH:DE-BFP:LP-DIR-AF		sv03d	sv03d1
+This study	Recalculated from original measurements; supercedes published results.	8.8	-33.8	2.1	13			0	LP-DIR-AF:sv03e1	Igneous	Lava Flow		Basalt	0.18	0.01	T	DA-DIR-GEO:DE-BFP:SO-CMD-NORTH:DE-BFP:LP-DIR-AF		sv03e	sv03e1
+This study	Recalculated from original measurements; supercedes published results.	352.8	52.2	0.9	7			0	LP-DIR-AF:sv03g1	Igneous	Lava Flow		Basalt	0.18	0.07	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv03g	sv03g1
+This study	Recalculated from original measurements; supercedes published results.	349.1	55.5	0.9	8			0	LP-DIR-AF:sv03h1	Igneous	Lava Flow		Basalt	0.18	0.06	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv03h	sv03h1
+This study										Igneous	Lava Flow		Basalt						sv03h	sv03h2
+This study	Recalculated from original measurements; supercedes published results.	353.2	57.3	0.7	8			0	LP-DIR-AF:sv03i1	Igneous	Lava Flow		Basalt	0.18	0.06	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv03i	sv03i1
+This study	Recalculated from original measurements; supercedes published results.	324.1	44.6	1.9	8			0	LP-DIR-AF:sv03j1	Igneous	Lava Flow		Basalt	0.18	0.06	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv03j	sv03j1
+This study	Recalculated from original measurements; supercedes published results.	348.3	50.2	1.5	12			0	LP-DIR-AF:sv04a1	Igneous	Lava Flow		Basalt	0.18	0.02	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv04a	sv04a1
+This study	Recalculated from original measurements; supercedes published results.	353	46.6	1.3	12			0	LP-DIR-AF:sv04b1	Igneous	Lava Flow		Basalt	0.18	0.02	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv04b	sv04b1
+This study										Igneous	Lava Flow		Basalt						sv04c	sv04c1
+This study										Igneous	Lava Flow		Basalt						sv04c	sv04c2
+This study	Recalculated from original measurements; supercedes published results.	342.6	48.7	2.6	9			0	LP-DIR-AF:sv04d1	Igneous	Lava Flow		Basalt	0.18	0.05	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv04d	sv04d1
+This study	Recalculated from original measurements; supercedes published results.	342.2	56.9	1.2	11			0	LP-DIR-AF:sv04e1	Igneous	Lava Flow		Basalt	0.18	0.03	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv04e	sv04e1
+This study										Igneous	Lava Flow		Basalt						sv04f	sv04f1
+This study	Recalculated from original measurements; supercedes published results.	347.4	50.6	2.4	5			0	LP-DIR-AF:sv04i1	Igneous	Lava Flow		Basalt	0.15	0.06	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv04i	sv04i1
+This study										Igneous	Lava Flow		Basalt						sv04j	sv04j1
+This study										Igneous	Lava Flow		Basalt						sv05a	sv05a1
+This study	Recalculated from original measurements; supercedes published results.	202.3	31.5	4.9	14			0	LP-DIR-AF:sv05a2	Igneous	Lava Flow		Basalt	423	0.03	K	DA-DIR-GEO:DE-BFP:LP-DIR-T:SO-SUN:DE-BFP:LP-DIR-AF		sv05a	sv05a2
+This study	Recalculated from original measurements; supercedes published results.	160	-47.8	1.7	6			0	LP-DIR-AF:sv05b1	Igneous	Lava Flow		Basalt	0.18	0.08	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv05b	sv05b1
+This study	Recalculated from original measurements; supercedes published results.	168.4	37.3	3.2	6			0	LP-DIR-AF:sv05c1	Igneous	Lava Flow		Basalt	0.18	0.08	T	DA-DIR-GEO:DE-BFP:SO-SUN:DE-BFP:LP-DIR-AF		sv05c	sv05c1
+This study										Igneous	Lava Flow		Basalt						sv05c	sv05c2
+This study	Recalculated from original measurements; supercedes published results.	161.2	-47.4	3.3	5			0	LP-DIR-AF:sv05d2	Igneous	Lava Flow		Basalt	0.18	0.08	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv05d	sv05d2
+This study										Igneous	Lava Flow		Basalt						sv05e	sv05e1
+This study	Recalculated from original measurements; supercedes published results.	72.5	-2.6	4.4	13			0	LP-DIR-AF:sv05f1	Igneous	Lava Flow		Basalt	0.18	0.01	T	DA-DIR-GEO:DE-BFP:SO-SUN:DE-BFP:LP-DIR-AF		sv05f	sv05f1
+This study	Recalculated from original measurements; supercedes published results.	172	-44.3	4.3	7			0	LP-DIR-AF:sv05h1	Igneous	Lava Flow		Basalt	0.15	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv05h	sv05h1
+This study	Recalculated from original measurements; supercedes published results.	166.6	-54.5	1.5	10			0	LP-DIR-AF:sv05i1	Igneous	Lava Flow		Basalt	0.18	0.04	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv05i	sv05i1
+This study	Recalculated from original measurements; supercedes published results.	157.8	-60	2.3	7			0	LP-DIR-AF:sv05j1	Igneous	Lava Flow		Basalt	0.18	0.07	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv05j	sv05j1
+This study	Recalculated from original measurements; supercedes published results.	246.5	-31.4	2	14			0	LP-DIR-AF:sv06a1	Igneous	Lava Flow		Basalt	0.18	0	T	DA-DIR-GEO:DE-BFP:SO-SUN:DE-BFP:LP-DIR-AF		sv06a	sv06a1
+This study	Recalculated from original measurements; supercedes published results.	278.3	24.5	3.8	12			0	LP-DIR-AF:sv06c3	Igneous	Lava Flow		Basalt	0.18	0.02	T	DA-DIR-GEO:DE-BFP:SO-SUN:DE-BFP:LP-DIR-AF		sv06c	sv06c3
+This study										Igneous	Lava Flow		Basalt						sv06e	sv06e1
+This study										Igneous	Lava Flow		Basalt						sv06e	sv06e2
+This study	Recalculated from original measurements; supercedes published results.	357.8	-39.1	2.6	10			0	LP-DIR-AF:sv06f1	Igneous	Lava Flow		Basalt	0.18	0.04	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv06f	sv06f1
+This study	Recalculated from original measurements; supercedes published results.	59.6	24	3.8	6			0	LP-DIR-AF:sv06g1	Igneous	Lava Flow		Basalt	0.07	0.02	T	DA-DIR-GEO:DE-BFP:SO-SUN:DE-BFP:LP-DIR-AF		sv06g	sv06g1
+This study										Igneous	Lava Flow		Basalt						sv06g	sv06g2
+This study	Recalculated from original measurements; supercedes published results.	344.7	-25.1	4.7	11			0	LP-DIR-AF:sv06h1	Igneous	Lava Flow		Basalt	0.18	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv06h	sv06h1
+This study	Recalculated from original measurements; supercedes published results.	4.1	57.1	3.1	10			0	LP-DIR-AF:sv07a1	Igneous	Lava Flow		Basalt	0.18	0.04	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv07a	sv07a1
+This study										Igneous	Lava Flow		Basalt						sv07a	sv07a2
+This study	Recalculated from original measurements; supercedes published results.	352.3	61.6	1.9	12			0	LP-DIR-AF:sv07b1	Igneous	Lava Flow		Basalt	0.18	0.02	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv07b	sv07b1
+This study	Recalculated from original measurements; supercedes published results.	346.5	62.5	2.8	11			0	LP-DIR-AF:sv07c1	Igneous	Lava Flow		Basalt	0.18	0.03	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv07c	sv07c1
+This study	Recalculated from original measurements; supercedes published results.	351.2	65.3	1.8	12			0	LP-DIR-AF:sv07d1	Igneous	Lava Flow		Basalt	0.18	0.02	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv07d	sv07d1
+This study	Recalculated from original measurements; supercedes published results.	344.1	60.2	2.3	8			0	LP-DIR-AF:sv07f2	Igneous	Lava Flow		Basalt	0.15	0.02	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv07f	sv07f2
+This study	Recalculated from original measurements; supercedes published results.	341.2	59.3	1.5	9			0	LP-DIR-AF:sv07g1	Igneous	Lava Flow		Basalt	0.15	0.01	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv07g	sv07g1
+This study	Recalculated from original measurements; supercedes published results.	352.3	64.6	1.2	13			0	LP-DIR-AF:sv07i1	Igneous	Lava Flow		Basalt	0.18	0.01	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv07i	sv07i1
+This study	Recalculated from original measurements; supercedes published results.	200.3	24.6	5	13			0	LP-DIR-AF:sv07j1	Igneous	Lava Flow		Basalt	0.16	0	T	DA-DIR-GEO:DE-BFP:SO-CMD-NORTH:DE-BFP:LP-DIR-AF		sv07j	sv07j1
+This study	Recalculated from original measurements; supercedes published results.	173.5	-46.7	1	7			0	LP-DIR-AF:sv08a1	Igneous	Lava Flow		Basalt	0.18	0.04	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv08a	sv08a1
+This study	Recalculated from original measurements; supercedes published results.	165	-38.2	0.9	13			0	LP-DIR-AF:sv08b1	Igneous	Lava Flow		Basalt	0.18	0.01	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv08b	sv08b1
+This study	Recalculated from original measurements; supercedes published results.	164.7	-41.1	0.7	7			0	LP-DIR-AF:sv08c1	Igneous	Lava Flow		Basalt	0.15	0.03	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv08c	sv08c1
+This study	Recalculated from original measurements; supercedes published results.	160.9	-48.9	2.4	12			0	LP-DIR-AF:sv08d1	Igneous	Lava Flow		Basalt	0.18	0.02	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv08d	sv08d1
+This study	Recalculated from original measurements; supercedes published results.	171.2	-53.8	1.2	13			0	LP-DIR-AF:sv08e1	Igneous	Lava Flow		Basalt	0.18	0.01	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv08e	sv08e1
+This study	Recalculated from original measurements; supercedes published results.	169.4	-48.3	0.9	12			0	LP-DIR-AF:sv08g1	Igneous	Lava Flow		Basalt	0.18	0.02	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv08g	sv08g1
+This study	Recalculated from original measurements; supercedes published results.	156.6	-44.8	2.7	7			0	LP-DIR-AF:sv08h1	Igneous	Lava Flow		Basalt	0.18	0.07	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv08h	sv08h1
+This study										Igneous	Lava Flow		Basalt						sv08h	sv08h3
+This study	Recalculated from original measurements; supercedes published results.	254	-10.3	26.5	20			0	LP-DIR-AF:sv09a1	Igneous	Lava Flow		Basalt	723	0.03	K	DA-DIR-GEO:DE-BFL:LP-DIR-T:SO-SUN:DE-BFL:LP-DIR-AF		sv09a	sv09a1
+This study										Igneous	Lava Flow		Basalt						sv09c	sv09c1
+This study										Igneous	Lava Flow		Basalt						sv09d	sv09d1
+This study										Igneous	Lava Flow		Basalt						sv09d	sv09d2
+This study	Recalculated from original measurements; supercedes published results.	242.7	-69	1.8	12			0	LP-DIR-AF:sv09e1	Igneous	Lava Flow		Basalt	0.18	0.02	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv09e	sv09e1
+This study	Recalculated from original measurements; supercedes published results.	277	-61.2	2.1	13			0	LP-DIR-AF:sv09f1	Igneous	Lava Flow		Basalt	0.18	0.01	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv09f	sv09f1
+This study										Igneous	Lava Flow		Basalt						sv09g	sv09g1
+This study	Recalculated from original measurements; supercedes published results.	242.5	-68.6	3.6	10			0	LP-DIR-AF:sv09i1	Igneous	Lava Flow		Basalt	0.18	0.04	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv09i	sv09i1
+This study	Recalculated from original measurements; supercedes published results.	230.6	-67.7	3.2	9			0	LP-DIR-AF:sv09j1	Igneous	Lava Flow		Basalt	0.18	0.05	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv09j	sv09j1
+This study										Igneous	Lava Flow		Basalt						sv09k	sv09k1
+This study										Igneous	Lava Flow		Basalt						sv09k	sv09k2
+This study	Recalculated from original measurements; supercedes published results.	222.6	45.2	1.2	12			0	LP-DIR-AF:sv10a1	Igneous	Lava Flow		Basalt	0.18	0.02	T	DA-DIR-GEO:DE-BFP:SO-SUN:DE-BFP:LP-DIR-AF		sv10a	sv10a1
+This study	Recalculated from original measurements; supercedes published results.	264.7	14.7	3	12			0	LP-DIR-AF:sv10c1	Igneous	Lava Flow		Basalt	0.18	0.02	T	DA-DIR-GEO:DE-BFP:SO-SUN:DE-BFP:LP-DIR-AF		sv10c	sv10c1
+This study										Igneous	Lava Flow		Basalt						sv10c	sv10c2
+This study	Recalculated from original measurements; supercedes published results.	344.5	-34.7	1.4	13			0	LP-DIR-AF:sv10f1	Igneous	Lava Flow		Basalt	0.18	0.01	T	DA-DIR-GEO:DE-BFP:SO-SUN:DE-BFP:LP-DIR-AF		sv10f	sv10f1
+This study	Recalculated from original measurements; supercedes published results.	139.9	27.6	4.5	10			0	LP-DIR-AF:sv10g1	Igneous	Lava Flow		Basalt	0.12	0.01	K	DA-DIR-GEO:DE-BFP:LP-DIR-T:SO-CMD-NORTH:DE-BFP:LP-DIR-AF		sv10g	sv10g1
+This study	Recalculated from original measurements; supercedes published results.	93.7	6	2.5	13			0	LP-DIR-AF:sv10j1	Igneous	Lava Flow		Basalt	0.18	0.01	T	DA-DIR-GEO:DE-BFP:SO-SUN:DE-BFP:LP-DIR-AF		sv10j	sv10j1
+This study	Recalculated from original measurements; supercedes published results.	206.7	45.6	3.4	14			0	LP-DIR-AF:sv11a1	Igneous	Lava Flow		Basalt	0.18	0	T	DA-DIR-GEO:DE-BFP:SO-SUN:DE-BFP:LP-DIR-AF		sv11a	sv11a1
+This study	Recalculated from original measurements; supercedes published results.	149	42.9	4.7	11			0	LP-DIR-AF:sv11b1	Igneous	Lava Flow		Basalt	0.18	0.03	T	DA-DIR-GEO:DE-BFP:SO-SUN:DE-BFP:LP-DIR-AF		sv11b	sv11b1
+This study										Igneous	Lava Flow		Basalt						sv11b	sv11b2
+This study										Igneous	Lava Flow		Basalt						sv11e	sv11e1
+This study										Igneous	Lava Flow		Basalt						sv11f	sv11f1
+This study										Igneous	Lava Flow		Basalt						sv11h	sv11h2
+This study	Recalculated from original measurements; supercedes published results.	193.6	-39	1.1	12			0	LP-DIR-AF:sv11k1	Igneous	Lava Flow		Basalt	0.18	0.02	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv11k	sv11k1
+This study	Recalculated from original measurements; supercedes published results.	197.7	-51.2	1.7	13			0	LP-DIR-AF:sv11n1	Igneous	Lava Flow		Basalt	0.18	0.01	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv11n	sv11n1
+This study	Recalculated from original measurements; supercedes published results.	89.5	-21.1	2.1	7			0	LP-DIR-AF:sv12e1	Igneous	Lava Flow		Basalt	0.07	0.01	T	DA-DIR-GEO:DE-BFP:SO-SUN:DE-BFP:LP-DIR-AF		sv12e	sv12e1
+This study										Igneous	Lava Flow		Basalt						sv12e	sv12e2
+This study	Recalculated from original measurements; supercedes published results.	42.6	44.2	31.2	20			0	LP-DIR-AF:sv12k1	Igneous	Lava Flow		Basalt	873	0.07	K	DA-DIR-GEO:DE-BFL:LP-DIR-T:SO-SUN:DE-BFL:LP-DIR-AF		sv12k	sv12k1
+This study										Igneous	Lava Flow		Basalt						sv12k	sv12k2
+This study	Recalculated from original measurements; supercedes published results.	210.1	-21.8	0	2			0	LP-DIR-AF:sv13i1	Igneous	Lava Flow		Basalt	373	0	K	DA-DIR-GEO:DE-BFP:LP-DIR-T:SO-SUN:DE-BFP:LP-DIR-AF		sv13i	sv13i1
+This study										Igneous	Lava Flow		Basalt						sv13i	sv13i2
+This study	Recalculated from original measurements; supercedes published results.	345.5	24.2	0.9	11			0	LP-DIR-AF:sv15a1	Igneous	Lava Flow		Basalt	0.18	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv15a	sv15a1
+This study	Recalculated from original measurements; supercedes published results.	346.2	26.6	1.8	9			0	LP-DIR-AF:sv15b1	Igneous	Lava Flow		Basalt	0.15	0.01	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv15b	sv15b1
+This study	Recalculated from original measurements; supercedes published results.	351.3	24.5	3	11			0	LP-DIR-AF:sv15c1	Igneous	Lava Flow		Basalt	0.18	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv15c	sv15c1
+This study										Igneous	Lava Flow		Basalt						sv15c	sv15c2
+This study	Recalculated from original measurements; supercedes published results.	355.3	24.4	2.5	9			0	LP-DIR-AF:sv15d1	Igneous	Lava Flow		Basalt	0.18	0.05	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv15d	sv15d1
+This study	Recalculated from original measurements; supercedes published results.	355.2	26.2	1.9	8			0	LP-DIR-AF:sv15f1	Igneous	Lava Flow		Basalt	0.18	0.06	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv15f	sv15f1
+This study	Recalculated from original measurements; supercedes published results.	3.4	26.5	2.3	8			0	LP-DIR-AF:sv15h1	Igneous	Lava Flow		Basalt	0.18	0.06	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv15h	sv15h1
+This study										Igneous	Lava Flow		Basalt						sv15h	sv15h2
+This study	Recalculated from original measurements; supercedes published results.	350.6	28.4	3.7	5			0	LP-DIR-AF:sv16a1	Igneous	Lava Flow		Basalt	0.15	0.06	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv16a	sv16a1
+This study	Recalculated from original measurements; supercedes published results.	352.3	28.9	2.7	5			0	LP-DIR-AF:sv16b1	Igneous	Lava Flow		Basalt	0.15	0.06	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv16b	sv16b1
+This study	Recalculated from original measurements; supercedes published results.	358.7	23.6	4.2	9			0	LP-DIR-AF:sv16c1	Igneous	Lava Flow		Basalt	0.18	0.05	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv16c	sv16c1
+This study										Igneous	Lava Flow		Basalt						sv16c	sv16c2
+This study	Recalculated from original measurements; supercedes published results.	359.8	19.8	2.4	8			0	LP-DIR-AF:sv16e1	Igneous	Lava Flow		Basalt	0.18	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv16e	sv16e1
+This study										Igneous	Lava Flow		Basalt						sv16f	sv16f2
+This study	Recalculated from original measurements; supercedes published results.	48	-61.3	3.7	14			0	LP-DIR-AF:sv16h1	Igneous	Lava Flow		Basalt	0.18	0	T	DA-DIR-GEO:DE-BFP:SO-SUN:DE-BFP:LP-DIR-AF		sv16h	sv16h1
+This study										Igneous	Lava Flow		Basalt						sv16h	sv16h2
+This study	Recalculated from original measurements; supercedes published results.	202.2	28.4	4.3	12			0	LP-DIR-AF:sv17b1	Igneous	Lava Flow		Basalt	0.18	0.02	T	DA-DIR-GEO:DE-BFP:SO-SUN:DE-BFP:LP-DIR-AF		sv17b	sv17b1
+This study										Igneous	Lava Flow		Basalt						sv17b	sv17b2
+This study	Recalculated from original measurements; supercedes published results.	131.9	62	3.9	12			0	LP-DIR-AF:sv17i1	Igneous	Lava Flow		Basalt	0.18	0.02	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv17i	sv17i1
+This study										Igneous	Lava Flow		Basalt						sv17i	sv17i2
+This study	Recalculated from original measurements; supercedes published results.	195.9	-56.1	1.2	10			0	LP-DIR-AF:sv18c1	Igneous	Lava Flow		Basalt	0.18	0.04	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv18c	sv18c1
+This study	Recalculated from original measurements; supercedes published results.	192.5	-56.8	2.7	11			0	LP-DIR-AF:sv18f1	Igneous	Lava Flow		Basalt	0.18	0.03	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv18f	sv18f1
+This study	Recalculated from original measurements; supercedes published results.	197.3	-55.5	1.5	12			0	LP-DIR-AF:sv18g1	Igneous	Lava Flow		Basalt	0.18	0.02	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv18g	sv18g1
+This study										Igneous	Lava Flow		Basalt						sv18g	sv18g2
+This study	Recalculated from original measurements; supercedes published results.	193.4	-57.4	0.7	13			0	LP-DIR-AF:sv18h1	Igneous	Lava Flow		Basalt	0.18	0.01	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv18h	sv18h1
+This study	Recalculated from original measurements; supercedes published results.	185.3	-53.5	6.4	11			0	LP-DIR-AF:sv18i1	Igneous	Lava Flow		Basalt	0.18	0.03	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv18i	sv18i1
+This study										Igneous	Lava Flow		Basalt						sv18i	sv18i2
+This study	Recalculated from original measurements; supercedes published results.	219	32.4	2.6	11			0	LP-DIR-AF:sv19c1	Igneous	Lava Flow		Basalt	0.18	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv19c	sv19c1
+This study										Igneous	Lava Flow		Basalt						sv19c	sv19c2
+This study										Igneous	Lava Flow		Basalt						sv19g	sv19g1
+This study	Recalculated from original measurements; supercedes published results.	42.8	-7.6	16.5	13			0	LP-DIR-AF:sv19g3	Igneous	Lava Flow		Basalt	373	0.03	K	DA-DIR-GEO:DE-BFP:LP-DIR-T:SO-SUN:DE-BFP:LP-DIR-AF		sv19g	sv19g3
+This study	Recalculated from original measurements; supercedes published results.	355.8	42.6	1.5	12			0	LP-DIR-AF:sv20c1	Igneous	Lava Flow		Basalt	0.18	0.02	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv20c	sv20c1
+This study										Igneous	Lava Flow		Basalt						sv20c	sv20c2
+This study										Igneous	Lava Flow		Basalt						sv20e	sv20e1
+This study										Igneous	Lava Flow		Basalt						sv20e	sv20e3
+This study	Recalculated from original measurements; supercedes published results.	76.7	-4.3	1.7	7			0	LP-DIR-AF:sv21g1	Igneous	Lava Flow		Basalt	0.08	0.02	K	DA-DIR-GEO:DE-BFL:LP-DIR-T:SO-SUN:DE-BFL:LP-DIR-AF		sv21g	sv21g1
+This study										Igneous	Lava Flow		Basalt						sv21g	sv21g2
+This study	Recalculated from original measurements; supercedes published results.	132.2	-0.9	1.5	11			0	LP-DIR-AF:sv21i1	Igneous	Lava Flow		Basalt	0.18	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv21i	sv21i1
+This study	Recalculated from original measurements; supercedes published results.	111.7	-6.9	22.2	23			0	LP-DIR-AF:sv22b1	Igneous	Lava Flow		Basalt	873	0.04	K	DA-DIR-GEO:DE-BFL:LP-DIR-T:SO-SUN:DE-BFL:LP-DIR-AF		sv22b	sv22b1
+This study										Igneous	Lava Flow		Basalt						sv22b	sv22b2
+This study	Recalculated from original measurements; supercedes published results.	263.2	-2.7	4.9	8			0	LP-DIR-AF:sv22c1	Igneous	Lava Flow		Basalt	0.14	0.04	T	DA-DIR-GEO:DE-BFP:SO-SUN:DE-BFP:LP-DIR-AF		sv22c	sv22c1
+This study										Igneous	Lava Flow		Basalt						sv22c	sv22c2
+This study										Igneous	Lava Flow		Basalt						sv22e	sv22e1
+This study	Recalculated from original measurements; supercedes published results.	20.6	28.7	0.9	10			0	LP-DIR-AF:sv23a1	Igneous	Lava Flow		Basalt	0.18	0.04	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv23a	sv23a1
+This study	Recalculated from original measurements; supercedes published results.	17	29.3	1.5	7			0	LP-DIR-AF:sv23b1	Igneous	Lava Flow		Basalt	0.15	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv23b	sv23b1
+This study	Recalculated from original measurements; supercedes published results.	263.1	32.9	11.4	14			0	LP-DIR-AF:sv23c1	Igneous	Lava Flow		Basalt	373	0.02	K	DA-DIR-GEO:DE-BFP:LP-DIR-T:SO-SUN:DE-BFP:LP-DIR-AF		sv23c	sv23c1
+This study										Igneous	Lava Flow		Basalt						sv23c	sv23c2
+This study										Igneous	Lava Flow		Basalt						sv23d	sv23d1
+This study										Igneous	Lava Flow		Basalt						sv23e	sv23e1
+This study										Igneous	Lava Flow		Basalt						sv23e	sv23e2
+This study	Recalculated from original measurements; supercedes published results.	18.2	26.7	1.4	11			0	LP-DIR-AF:sv23f1	Igneous	Lava Flow		Basalt	0.18	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv23f	sv23f1
+This study	Recalculated from original measurements; supercedes published results.	25.1	29	1.7	11			0	LP-DIR-AF:sv23g1	Igneous	Lava Flow		Basalt	0.18	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv23g	sv23g1
+This study	Recalculated from original measurements; supercedes published results.	343	63.4	1.3	7			0	LP-DIR-AF:sv24b1	Igneous	Lava Flow		Basalt	0.1	0.01	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv24b	sv24b1
+This study	Recalculated from original measurements; supercedes published results.	356.8	58.6	0.9	7			0	LP-DIR-AF:sv24c1	Igneous	Lava Flow		Basalt	0.15	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv24c	sv24c1
+This study	Recalculated from original measurements; supercedes published results.	353.7	64.1	1.2	13			0	LP-DIR-AF:sv24d1	Igneous	Lava Flow		Basalt	0.18	0.01	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv24d	sv24d1
+This study										Igneous	Lava Flow		Basalt						sv24d	sv24d2
+This study										Igneous	Lava Flow		Basalt						sv24f	sv24f3
+This study	Recalculated from original measurements; supercedes published results.	317.5	63.2	0.5	13			0	LP-DIR-AF:sv24g1	Igneous	Lava Flow		Basalt	0.18	0.01	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv24g	sv24g1
+This study	Recalculated from original measurements; supercedes published results.	348.8	63.6	0.6	13			0	LP-DIR-AF:sv24h1	Igneous	Lava Flow		Basalt	0.18	0.01	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv24h	sv24h1
+This study	Recalculated from original measurements; supercedes published results.	335.1	62.7	0.8	13			0	LP-DIR-AF:sv24i1	Igneous	Lava Flow		Basalt	0.18	0.01	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv24i	sv24i1
+This study	Recalculated from original measurements; supercedes published results.	315.9	64.1	2.5	12			0	LP-DIR-AF:sv24j1	Igneous	Lava Flow		Basalt	0.18	0.02	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv24j	sv24j1
+This study										Igneous	Lava Flow		Basalt						sv24j	sv24j2
+This study										Igneous	Lava Flow		Basalt						sv25i	sv25i1
+This study										Igneous	Lava Flow		Basalt						sv25i	sv25i2
+This study	Recalculated from original measurements; supercedes published results.	274.6	36.6	4.1	6			0	LP-DIR-AF:sv25j1	Igneous	Lava Flow		Basalt	0.16	0.07	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv25j	sv25j1
+This study										Igneous	Lava Flow		Basalt						sv25j	sv25j2
+This study	Recalculated from original measurements; supercedes published results.	174.6	25.8	5.3	11			0	LP-DIR-AF:sv26d1	Igneous	Lava Flow		Basalt	0.12	0	T	DA-DIR-GEO:DE-BFP:SO-SUN:DE-BFP:LP-DIR-AF		sv26d	sv26d1
+This study										Igneous	Lava Flow		Basalt						sv26d	sv26d2
+This study										Igneous	Lava Flow		Basalt						sv26e	sv26e1
+This study										Igneous	Lava Flow		Basalt						sv26f	sv26f1
+This study	Recalculated from original measurements; supercedes published results.	167.9	-62.8	4.4	12			0	LP-DIR-AF:sv26g1	Igneous	Lava Flow		Basalt	0.18	0.02	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv26g	sv26g1
+This study	Recalculated from original measurements; supercedes published results.	150.7	-71.5	2.5	6			0	LP-DIR-AF:sv26h2	Igneous	Lava Flow		Basalt	0.1	0.04	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv26h	sv26h2
+This study	Recalculated from original measurements; supercedes published results.	137.9	-66.4	2.8	11			0	LP-DIR-AF:sv26i1	Igneous	Lava Flow		Basalt	0.18	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv26i	sv26i1
+This study										Igneous	Lava Flow		Basalt						sv26j	sv26j1
+This study	Recalculated from original measurements; supercedes published results.	131.3	14.7	2.2	13			0	LP-DIR-AF:sv26k1	Igneous	Lava Flow		Basalt	0.18	0.01	T	DA-DIR-GEO:DE-BFP:SO-SUN:DE-BFP:LP-DIR-AF		sv26k	sv26k1
+This study										Igneous	Lava Flow		Basalt						sv26k	sv26k2
+This study	Recalculated from original measurements; supercedes published results.	173.8	-75.3	4.8	4			0	LP-DIR-AF:sv26l1	Igneous	Lava Flow		Basalt	0.18	0.1	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv26l	sv26l1
+This study	Recalculated from original measurements; supercedes published results.	359.1	56.2	1.1	13			0	LP-DIR-AF:sv27a1	Igneous	Lava Flow		Basalt	0.18	0.01	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv27a	sv27a1
+This study	Recalculated from original measurements; supercedes published results.	343.4	56.7	0.9	12			0	LP-DIR-AF:sv27c1	Igneous	Lava Flow		Basalt	0.18	0.02	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv27c	sv27c1
+This study	Recalculated from original measurements; supercedes published results.	354.4	50.5	1.2	13			0	LP-DIR-AF:sv27d1	Igneous	Lava Flow		Basalt	0.18	0.01	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv27d	sv27d1
+This study	Recalculated from original measurements; supercedes published results.	1.2	58.1	3.3	13			0	LP-DIR-AF:sv27j1	Igneous	Lava Flow		Basalt	0.18	0.01	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv27j	sv27j1
+This study										Igneous	Lava Flow		Basalt						sv27j	sv27j2
+This study	Recalculated from original measurements; supercedes published results.	41.8	-22.6	4.2	14			0	LP-DIR-AF:sv27l1	Igneous	Lava Flow		Basalt	0.18	0	T	DA-DIR-GEO:DE-BFP:SO-SUN:DE-BFP:LP-DIR-AF		sv27l	sv27l1
+This study										Igneous	Lava Flow		Basalt						sv27l	sv27l2
+This study										Igneous	Lava Flow		Basalt						sv27m	sv27m1
+This study										Igneous	Lava Flow		Basalt						sv28a	sv28a1
+This study										Igneous	Lava Flow		Basalt						sv28a	sv28a2
+This study	Recalculated from original measurements; supercedes published results.	29.7	11.7	5.2	21			0	LP-DIR-AF:sv28h1	Igneous	Lava Flow		Basalt	773	0.04	K	DA-DIR-GEO:DE-BFL:LP-DIR-T:SO-SUN:DE-BFL:LP-DIR-AF		sv28h	sv28h1
+This study										Igneous	Lava Flow		Basalt						sv28h	sv28h2
+This study										Igneous	Lava Flow		Basalt						sv29a	sv29a1
+This study										Igneous	Lava Flow		Basalt						sv29d	sv29d1
+This study										Igneous	Lava Flow		Basalt						sv29d	sv29d2
+This study										Igneous	Lava Flow		Basalt						sv29e	sv29e1
+This study										Igneous	Lava Flow		Basalt						sv29e	sv29e2
+This study										Igneous	Lava Flow		Basalt						sv29g	sv29g1
+This study										Igneous	Lava Flow		Basalt						sv30d	sv30d1
+This study										Igneous	Lava Flow		Basalt						sv30d	sv30d2
+This study										Igneous	Lava Flow		Basalt						sv30g	sv30g1
+This study	Recalculated from original measurements; supercedes published results.	180.5	-40.6	4.1	8			0	LP-DIR-AF:sv30h1	Igneous	Lava Flow		Basalt	0.18	0.06	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv30h	sv30h1
+This study										Igneous	Lava Flow		Basalt						sv30i	sv30i1
+This study	Recalculated from original measurements; supercedes published results.	0.5	-53.9	4	14			0	LP-DIR-AF:sv30i2	Igneous	Lava Flow		Basalt	0.18	0	T	DA-DIR-GEO:DE-BFP:SO-SUN:DE-BFP:LP-DIR-AF		sv30i	sv30i2
+This study										Igneous	Lava Flow		Basalt						sv30j	sv30j1
+This study	Recalculated from original measurements; supercedes published results.	5.5	45.3	1.2	13			0	LP-DIR-AF:sv31a1	Igneous	Lava Flow		Basalt	0.18	0.01	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv31a	sv31a1
+This study	Recalculated from original measurements; supercedes published results.	11.9	45.1	0.9	13			0	LP-DIR-AF:sv31b1	Igneous	Lava Flow		Basalt	0.18	0.01	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv31b	sv31b1
+This study	Recalculated from original measurements; supercedes published results.	12.4	43.1	0.8	13			0	LP-DIR-AF:sv31c1	Igneous	Lava Flow		Basalt	0.18	0.01	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv31c	sv31c1
+This study	Recalculated from original measurements; supercedes published results.	17.4	48.2	0.8	10			0	LP-DIR-AF:sv31e2	Igneous	Lava Flow		Basalt	0.18	0.04	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv31e	sv31e2
+This study										Igneous	Lava Flow		Basalt						sv31j	sv31j1
+This study	Recalculated from original measurements; supercedes published results.	16.6	49.1	1.7	9			0	LP-DIR-AF:sv31k1	Igneous	Lava Flow		Basalt	0.18	0.05	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv31k	sv31k1
+This study	Recalculated from original measurements; supercedes published results.	348.3	60.8	1.1	11			0	LP-DIR-AF:sv32a1	Igneous	Lava Flow		Basalt	0.18	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv32a	sv32a1
+This study	Recalculated from original measurements; supercedes published results.	336.3	62.5	0.5	11			0	LP-DIR-AF:sv32b1	Igneous	Lava Flow		Basalt	0.18	0.03	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv32b	sv32b1
+This study	Recalculated from original measurements; supercedes published results.	339.6	56.4	0.8	11			0	LP-DIR-AF:sv32c1	Igneous	Lava Flow		Basalt	0.18	0.03	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv32c	sv32c1
+This study	Recalculated from original measurements; supercedes published results.	346.4	57.1	1.4	7			0	LP-DIR-AF:sv32d1	Igneous	Lava Flow		Basalt	0.18	0.07	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv32d	sv32d1
+This study	Recalculated from original measurements; supercedes published results.	343.7	64.1	0.7	10			0	LP-DIR-AF:sv32e1	Igneous	Lava Flow		Basalt	0.18	0.04	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv32e	sv32e1
+This study										Igneous	Lava Flow		Basalt						sv32j	sv32j1
+This study										Igneous	Lava Flow		Basalt						sv32j	sv32j2
+This study	Recalculated from original measurements; supercedes published results.	309.2	6.6	2	6			0	LP-DIR-AF:sv50a1	Igneous	Lava Flow		Basalt	0.1	0.04	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv50a	sv50a1
+This study	Recalculated from original measurements; supercedes published results.	224.7	33.3	3.6	7			0	LP-DIR-AF:sv50d3	Igneous	Lava Flow		Basalt	0.1	0.03	T	DA-DIR-GEO:DE-BFP:SO-SUN:DE-BFP:LP-DIR-AF		sv50d	sv50d3
+This study										Igneous	Lava Flow		Basalt						sv50h	sv50h1
+This study	Recalculated from original measurements; supercedes published results.	181.2	-42.8	5.3	10			0	LP-DIR-AF:sv50j1	Igneous	Lava Flow		Basalt	0.16	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv50j	sv50j1
+This study	Recalculated from original measurements; supercedes published results.	302.1	11.7	0.9	11			0	LP-DIR-AF:sv51a1	Igneous	Lava Flow		Basalt	0.18	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv51a	sv51a1
+This study	Recalculated from original measurements; supercedes published results.	171.3	-38.1	1	9			0	LP-DIR-AF:sv51e1	Igneous	Lava Flow		Basalt	0.14	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv51e	sv51e1
+This study										Igneous	Lava Flow		Basalt						sv51f	sv51f1
+This study	Recalculated from original measurements; supercedes published results.	187.5	-40.3	0.7	8			0	LP-DIR-AF:sv51j1	Igneous	Lava Flow		Basalt	0.12	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv51j	sv51j1
+This study	Recalculated from original measurements; supercedes published results.	188.3	-37.1	1.1	9			0	LP-DIR-AF:sv51k2	Igneous	Lava Flow		Basalt	0.14	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv51k	sv51k2
+This study	Recalculated from original measurements; supercedes published results.	174	-56.1	1.3	11			0	LP-DIR-AF:sv52a1	Igneous	Lava Flow		Basalt	0.18	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv52a	sv52a1
+This study										Igneous	Lava Flow		Basalt						sv52b	sv52b1
+This study	Recalculated from original measurements; supercedes published results.	187.2	-56.2	1.1	11			0	LP-DIR-AF:sv52c1	Igneous	Lava Flow		Basalt	0.18	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv52c	sv52c1
+This study	Recalculated from original measurements; supercedes published results.	192.6	-51.1	5	6			0	LP-DIR-AF:sv52g1	Igneous	Lava Flow		Basalt	0.1	0.04	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv52g	sv52g1
+This study	Recalculated from original measurements; supercedes published results.	175.9	-55	1.3	10			0	LP-DIR-AF:sv52j1	Igneous	Lava Flow		Basalt	0.18	0.04	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv52j	sv52j1
+This study	Recalculated from original measurements; supercedes published results.	171.4	29.9	0.8	9			0	LP-DIR-AF:sv53b1	Igneous	Lava Flow		Basalt	0.18	0.02	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv53b	sv53b1
+This study										Igneous	Lava Flow		Basalt						sv53e	sv53e1
+This study										Igneous	Lava Flow		Basalt						sv53g	sv53g1
+This study										Igneous	Lava Flow		Basalt						sv53h	sv53h1
+This study	Recalculated from original measurements; supercedes published results.	179.1	-49.1	1.3	11			0	LP-DIR-AF:sv53i1	Igneous	Lava Flow		Basalt	0.18	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv53i	sv53i1
+This study	Recalculated from original measurements; supercedes published results.	186.3	-52.8	3.1	9			0	LP-DIR-AF:sv53j1	Igneous	Lava Flow		Basalt	0.12	0.02	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv53j	sv53j1
+This study	Recalculated from original measurements; supercedes published results.	175.1	-45.8	1.6	11			0	LP-DIR-AF:sv54c1	Igneous	Lava Flow		Basalt	0.18	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv54c	sv54c1
+This study	Recalculated from original measurements; supercedes published results.	175.4	-41	4.4	11			0	LP-DIR-AF:sv54d1	Igneous	Lava Flow		Basalt	0.18	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv54d	sv54d1
+This study										Igneous	Lava Flow		Basalt						sv54g	sv54g2
+This study	Recalculated from original measurements; supercedes published results.	167.9	-56.4	1.3	10			0	LP-DIR-AF:sv54h1	Igneous	Lava Flow		Basalt	0.18	0.04	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv54h	sv54h1
+This study	Recalculated from original measurements; supercedes published results.	188.5	-28	3.8	5			0	LP-DIR-AF:sv54i1	Igneous	Lava Flow		Basalt	0.12	0.06	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv54i	sv54i1
+This study	Recalculated from original measurements; supercedes published results.	160.1	-60.4	1.1	8			0	LP-DIR-AF:sv54k1	Igneous	Lava Flow		Basalt	0.12	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv54k	sv54k1
+This study	Recalculated from original measurements; supercedes published results.	181.7	-50.5	0.9	11			0	LP-DIR-AF:sv55a1	Igneous	Lava Flow		Basalt	0.14	0.01	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv55a	sv55a1
+This study										Igneous	Lava Flow		Basalt						sv55b	sv55b1
+This study	Recalculated from original measurements; supercedes published results.	180.3	-43.1	0.6	11			0	LP-DIR-AF:sv55d2	Igneous	Lava Flow		Basalt	0.14	0.01	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv55d	sv55d2
+This study	Recalculated from original measurements; supercedes published results.	179.4	-42.1	0.7	11			0	LP-DIR-AF:sv55h1	Igneous	Lava Flow		Basalt	0.14	0.01	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv55h	sv55h1
+This study	Recalculated from original measurements; supercedes published results.	183.7	-44.3	0.7	11			0	LP-DIR-AF:sv55j1	Igneous	Lava Flow		Basalt	0.16	0.02	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv55j	sv55j1
+This study	Recalculated from original measurements; supercedes published results.	174.9	-59.5	1.2	11			0	LP-DIR-AF:sv56a2	Igneous	Lava Flow		Basalt	0.16	0.02	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv56a	sv56a2
+This study										Igneous	Lava Flow		Basalt						sv56b	sv56b1
+This study	Recalculated from original measurements; supercedes published results.	166.5	-52.1	1	9			0	LP-DIR-AF:sv56c1	Igneous	Lava Flow		Basalt	0.14	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv56c	sv56c1
+This study	Recalculated from original measurements; supercedes published results.	167.2	-51.4	1.9	9			0	LP-DIR-AF:sv56d2	Igneous	Lava Flow		Basalt	0.14	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv56d	sv56d2
+This study	Recalculated from original measurements; supercedes published results.	193.1	35.2	5.1	11			0	LP-DIR-AF:sv56e1	Igneous	Lava Flow		Basalt	0.12	0	T	DA-DIR-GEO:DE-BFP:SO-SUN:DE-BFP:LP-DIR-AF		sv56e	sv56e1
+This study	Recalculated from original measurements; supercedes published results.	352.7	-26.4	2.6	10			0	LP-DIR-AF:sv56h1	Igneous	Lava Flow		Basalt	0.18	0.04	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv56h	sv56h1
+This study	Recalculated from original measurements; supercedes published results.	198	-53.8	1.1	10			0	LP-DIR-AF:sv57a1	Igneous	Lava Flow		Basalt	0.16	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv57a	sv57a1
+This study										Igneous	Lava Flow		Basalt						sv57b	sv57b1
+This study	Recalculated from original measurements; supercedes published results.	194.9	-54.2	2	10			0	LP-DIR-AF:sv57c1	Igneous	Lava Flow		Basalt	0.16	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv57c	sv57c1
+This study	Recalculated from original measurements; supercedes published results.	187.6	-57	3.1	11			0	LP-DIR-AF:sv57d1	Igneous	Lava Flow		Basalt	0.16	0.02	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv57d	sv57d1
+This study	Recalculated from original measurements; supercedes published results.	203	-14.6	5.4	6			0	LP-DIR-AF:sv57k1	Igneous	Lava Flow		Basalt	0.12	0.05	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv57k	sv57k1
+This study	Recalculated from original measurements; supercedes published results.	210.3	-49.6	1.5	11			0	LP-DIR-AF:sv57l2	Igneous	Lava Flow		Basalt	0.18	0.03	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv57l	sv57l2
+This study	Recalculated from original measurements; supercedes published results.	181.6	-63.7	1	12			0	LP-DIR-AF:sv58a1	Igneous	Lava Flow		Basalt	0.18	0.02	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv58a	sv58a1
+This study										Igneous	Lava Flow		Basalt						sv58b	sv58b1
+This study	Recalculated from original measurements; supercedes published results.	176.7	-60	0.5	11			0	LP-DIR-AF:sv58d1	Igneous	Lava Flow		Basalt	0.18	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv58d	sv58d1
+This study	Recalculated from original measurements; supercedes published results.	182.5	-60	0.5	11			0	LP-DIR-AF:sv58g1	Igneous	Lava Flow		Basalt	0.18	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv58g	sv58g1
+This study	Recalculated from original measurements; supercedes published results.	188	-65.2	0.7	12			0	LP-DIR-AF:sv58k1	Igneous	Lava Flow		Basalt	0.18	0.02	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv58k	sv58k1
+This study	Recalculated from original measurements; supercedes published results.	181	-51.7	1	11			0	LP-DIR-AF:sv59a1	Igneous	Lava Flow		Basalt	0.18	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv59a	sv59a1
+This study	Recalculated from original measurements; supercedes published results.	179.6	-53.1	0.8	11			0	LP-DIR-AF:sv59f1	Igneous	Lava Flow		Basalt	0.18	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv59f	sv59f1
+This study	Recalculated from original measurements; supercedes published results.	178.4	-52	1	11			0	LP-DIR-AF:sv59g1	Igneous	Lava Flow		Basalt	0.18	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv59g	sv59g1
+This study										Igneous	Lava Flow		Basalt						sv59h	sv59h1
+This study	Recalculated from original measurements; supercedes published results.	176.4	-48.3	1.4	12			0	LP-DIR-AF:sv59j1	Igneous	Lava Flow		Basalt	0.18	0.02	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv59j	sv59j1
+This study	Recalculated from original measurements; supercedes published results.	219.1	-21	2.3	7			0	LP-DIR-AF:sv60a1	Igneous	Lava Flow		Basalt	0.08	0.02	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv60a	sv60a1
+This study	Recalculated from original measurements; supercedes published results.	179.5	-28.9	0.7	5			0	LP-DIR-AF:sv60c1	Igneous	Lava Flow		Basalt	0.06	0.02	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv60c	sv60c1
+This study										Igneous	Lava Flow		Basalt						sv60d	sv60d1
+This study										Igneous	Lava Flow		Basalt						sv60e	sv60e1
+This study										Igneous	Lava Flow		Basalt						sv60g	sv60g1
+This study	Recalculated from original measurements; supercedes published results.	163.3	61	1	10			0	LP-DIR-AF:sv61a1	Igneous	Lava Flow		Basalt	0.18	0.01	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv61a	sv61a1
+This study	Recalculated from original measurements; supercedes published results.	264.2	2.6	4.8	9			0	LP-DIR-AF:sv61c1	Igneous	Lava Flow		Basalt	0.08	0	T	DA-DIR-GEO:DE-BFP:SO-SUN:DE-BFP:LP-DIR-AF		sv61c	sv61c1
+This study										Igneous	Lava Flow		Basalt						sv61d	sv61d1
+This study										Igneous	Lava Flow		Basalt						sv61e	sv61e1
+This study	Recalculated from original measurements; supercedes published results.	348.2	63.4	1.4	7			0	LP-DIR-AF:sv61g1	Igneous	Lava Flow		Basalt	0.16	0.06	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv61g	sv61g1
+This study										Igneous	Lava Flow		Basalt						sv61h	sv61h1
+This study	Recalculated from original measurements; supercedes published results.	356.8	54.4	1.6	5			0	LP-DIR-AF:sv61i1	Igneous	Lava Flow		Basalt	0.14	0.07	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv61i	sv61i1
+This study	Recalculated from original measurements; supercedes published results.	68.8	19.6	2.2	9			0	LP-DIR-AF:sv62b1	Igneous	Lava Flow		Basalt	0.08	0	T	DA-DIR-GEO:DE-BFP:SO-SUN:DE-BFP:LP-DIR-AF		sv62b	sv62b1
+This study	Recalculated from original measurements; supercedes published results.	345.3	-35.3	2.3	11			0	LP-DIR-AF:sv62d1	Igneous	Lava Flow		Basalt	0.12	0	T	DA-DIR-GEO:DE-BFP:SO-SUN:DE-BFP:LP-DIR-AF		sv62d	sv62d1
+This study	Recalculated from original measurements; supercedes published results.	127.1	35.1	3.8	7			0	LP-DIR-AF:sv62g1	Igneous	Lava Flow		Basalt	0.07	0.01	T	DA-DIR-GEO:DE-BFP:SO-SUN:DE-BFP:LP-DIR-AF		sv62g	sv62g1
+This study										Igneous	Lava Flow		Basalt						sv62j	sv62j1
+This study	Recalculated from original measurements; supercedes published results.	354.9	43.6	1.3	8			0	LP-DIR-AF:sv63a1	Igneous	Lava Flow		Basalt	0.12	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv63a	sv63a1
+This study	Recalculated from original measurements; supercedes published results.	353	48	0.8	5			0	LP-DIR-AF:sv63f1	Igneous	Lava Flow		Basalt	0.05	0.01	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv63f	sv63f1
+This study										Igneous	Lava Flow		Basalt						sv63g	sv63g1
+This study	Recalculated from original measurements; supercedes published results.	351.9	46.4	0.9	6			0	LP-DIR-AF:sv63h1	Igneous	Lava Flow		Basalt	0.08	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv63h	sv63h1
+This study	Recalculated from original measurements; supercedes published results.	346.5	42.3	2	6			0	LP-DIR-AF:sv63j1	Igneous	Lava Flow		Basalt	0.08	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv63j	sv63j1
+This study										Igneous	Lava Flow		Basalt						sv64a	sv64a1
+This study	Recalculated from original measurements; supercedes published results.	173.1	-51.1	1.2	8			0	LP-DIR-AF:sv64b1	Igneous	Lava Flow		Basalt	0.15	0.02	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv64b	sv64b1
+This study	Recalculated from original measurements; supercedes published results.	185.3	-45.3	1.2	10			0	LP-DIR-AF:sv64c2	Igneous	Lava Flow		Basalt	0.18	0.04	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv64c	sv64c2
+This study	Recalculated from original measurements; supercedes published results.	162.4	-53	0.6	11			0	LP-DIR-AF:sv64e1	Igneous	Lava Flow		Basalt	0.16	0.02	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv64e	sv64e1
+This study										Igneous	Lava Flow		Basalt						sv64f	sv64f1
+This study	Recalculated from original measurements; supercedes published results.	167.9	-53.7	0.8	8			0	LP-DIR-AF:sv64g1	Igneous	Lava Flow		Basalt	0.12	0.03	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv64g	sv64g1
+This study	Recalculated from original measurements; supercedes published results.	165.5	-52.9	0.8	8			0	LP-DIR-AF:sv64h1	Igneous	Lava Flow		Basalt	0.15	0.02	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv64h	sv64h1
+This study	Recalculated from original measurements; supercedes published results.	165.9	-52.1	0.4	10			0	LP-DIR-AF:sv64i1	Igneous	Lava Flow		Basalt	0.14	0.02	T	DA-DIR-GEO:DE-BFL:SO-SUN:DE-BFL:LP-DIR-AF		sv64i	sv64i1
+This study	Recalculated from original measurements; supercedes published results.	32.7	65	0.8	6			0	LP-DIR-AF:sv65a1	Igneous	Lava Flow		Basalt	0.07	0.02	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv65a	sv65a1
+This study										Igneous	Lava Flow		Basalt						sv65b	sv65b1
+This study	Recalculated from original measurements; supercedes published results.	33.1	49.7	1	5			0	LP-DIR-AF:sv65c1	Igneous	Lava Flow		Basalt	0.1	0.05	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv65c	sv65c1
+This study	Recalculated from original measurements; supercedes published results.	25.9	45	2.5	6			0	LP-DIR-AF:sv65d1	Igneous	Lava Flow		Basalt	0.1	0.04	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv65d	sv65d1
+This study	Recalculated from original measurements; supercedes published results.	29.9	58.3	1.3	5			0	LP-DIR-AF:sv65e1	Igneous	Lava Flow		Basalt	0.08	0.04	T	DA-DIR-GEO:DE-BFL:SO-CMD-NORTH:DE-BFL:LP-DIR-AF		sv65e	sv65e1
+This study										Igneous	Lava Flow		Basalt						sv65f	sv65f2
+This study	Recalculated from original measurements; supercedes published results.	289.8	10.4	5	10			0	LP-DIR-AF:sv65g1	Igneous	Lava Flow		Basalt	0.15	0	T	DA-DIR-GEO:DE-BFP:SO-SUN:DE-BFP:LP-DIR-AF		sv65g	sv65g1
+This study										Igneous	Lava Flow		Basalt						sv65h	sv65h1
