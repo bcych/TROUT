@@ -3,6 +3,7 @@ import pandas as pd
 import emcee
 import matplotlib.pyplot as plt
 import jax.numpy as jnp
+from jax.scipy.integrate import trapezoid
 from jax import grad, jit, vmap, jacrev
 import jax.scipy.special as jsp
 from jax.scipy.stats import uniform, multivariate_normal, norm, beta
@@ -938,7 +939,7 @@ def alt_prior_sigma_psi(Ts_data,cs,mus,sds,p_stars,q_stars,sigma):
         overlap=jnp.amin(pdf_pair,axis=0)
         
         #Calculate the overlap coefficient
-        overlap_sum=jnp.trapz(overlap,xs)/cmin
+        overlap_sum=trapezoid(overlap,xs)/cmin
         #Prior is a beta distribution
         lp+=beta.logpdf(overlap_sum,1,10)
 
